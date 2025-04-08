@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Admin Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+    <script defer src="dashboard.js"></script>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">Super Admin</div>
+        <ul class="nav-links">
+            <li><a href="#dashboard" class="active">Dashboard</a></li>
+            <li><a href="#manageUsers">Manage Users</a></li>
+            <li><a href="#timetable">Timetable</a></li>
+            <li><a href="#dataCreation">Data Creation</a></li>
+            <li><a href="logout.php">Logout</a></li>
+        </ul>
+        <div class="menu-toggle">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="dashboard-container">
+        <div class="sidebar">
+            <h3>Super Admin Panel</h3>
+            <ul>
+                <li><a href="#dashboard">Dashboard Overview</a></li>
+                <li><a href="#manageUsers">Manage Users</a></li>
+                <li><a href="#timetable">Timetable</a></li>
+                <li><a href="#dataCreation">Data Creation</a></li>
+            </ul>
+        </div>
+        <div class="main-content">
+            <!-- Dashboard Section -->
+            <section id="dashboard">
+                <h2>Welcome, Super Admin!</h2>
+                <p>Here is an overview of the system’s performance and activities.</p>
+                <div class="stats">
+                    <div class="stat-box">
+                        <h3>Total Users</h3>
+                        <p id="totalUsers">--</p>
+                    </div>
+                    <div class="stat-box">
+                        <h3>Total Departments</h3>
+                        <p id="totalDepartments">--</p>
+                    </div>
+                    <div class="stat-box">
+                        <h3>Total Reports Generated</h3>
+                        <p id="totalReports">--</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Manage Users Section -->
+            <section id="manageUsers">
+                <h2>Manage Users</h2>
+                <p>Here you can view and manage all users.</p>
+                <!-- Add User Management Table -->
+            </section>
+
+            <!-- Timetable Section -->
+            <section id="timetable">
+                <h2>Create and Manage Timetables</h2>
+                <p>Use this section to create, view, and manage examination timetables.</p>
+
+                <!-- Create Timetable Form -->
+                <div class="timetable-form">
+                    <h3>Create a New Timetable</h3>
+                    <form action="create_timetable.php" method="post" enctype="multipart/form-data">
+                        <label for="semester">Semester:</label>
+                        <select name="semester" id="semester" required>
+                            <option value="first">First Semester</option>
+                            <option value="second">Second Semester</option>
+                        </select>
+
+                        <label for="session">Academic Session:</label>
+                        <input type="text" name="session" id="session" placeholder="e.g., 2024/2025" required>
+
+                        <label for="uploadData">Upload Course Data (Excel/CSV):</label>
+                        <input type="file" name="uploadData" id="uploadData" accept=".xlsx, .csv">
+
+                        <div class="default-option">
+                            <p>OR</p>
+                            <button type="button" onclick="useDefaultData()" class="btn-secondary">Use Default Data</button>
+                        </div>
+
+                        <button type="submit" class="btn-primary">Generate Timetable</button>
+                    </form>
+                </div>
+
+                <!-- View Existing Timetables -->
+                <div class="view-timetable">
+                    <h3>View Existing Timetables</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Semester</th>
+                                <th>Session</th>
+                                <th>Date Created</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Dynamic timetable rows (to be populated by backend) -->
+                            <tr>
+                                <td>First Semester</td>
+                                <td>2024/2025</td>
+                                <td>2024-12-24</td>
+                                <td>
+                                    <a href="view_timetable.php?id=1" class="btn-view">View</a>
+                                    <a href="download_timetable.php?id=1" class="btn-download">Download</a>
+                                    <a href="delete_timetable.php?id=1" class="btn-delete">Delete</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Data Creation Section -->
+            <section id="dataCreation">
+                <h2>Data Creation</h2>
+                <p>Use this section to create and manage Colleges, Departments, Levels, Courses, Venues, Staff, and Combined Courses.</p>
+            
+                <!-- Colleges Section -->
+                <div class="data-section">
+                    <h3>Manage Colleges</h3>
+                    <form action="backend/add_college.php" method="post">
+                        <label for="college_name">College Name:</label>
+                        <input type="text" id="college_name" name="college_name" required>
+                        <button type="submit">Add College</button>
+                    </form>
+                    <h4>Existing Colleges</h4>
+                    <div id="colleges_table"></div>
+                </div>
+            
+                <!-- Departments Section -->
+                <div class="data-section">
+                    <h3>Manage Departments</h3>
+                    <form action="backend/add_department.php" method="post">
+                        <label for="college_id">Select College:</label>
+                        <select id="college_id" name="college_id"></select>
+                        <label for="department_name">Department Name:</label>
+                        <input type="text" id="department_name" name="department_name" required>
+                        <button type="submit">Add Department</button>
+                    </form>
+                    <h4>Existing Departments</h4>
+                    <div id="departments_table"></div>
+                </div>
+            
+                <!-- Levels & Courses Section -->
+                <div class="data-section">
+                    <h3>Manage Levels & Courses</h3>
+                    <form action="backend/add_level_course.php" method="post">
+                        <label for="department_id">Select Department:</label>
+                        <select id="department_id" name="department_id"></select>
+                        <label for="level">Level:</label>
+                        <input type="text" id="level" name="level" required>
+                        <label for="course_code">Course Code:</label>
+                        <input type="text" id="course_code" name="course_code" required>
+                        <label for="course_name">Course Name:</label>
+                        <input type="text" id="course_name" name="course_name" required>
+                        <label for="students_count">Number of Students:</label>
+                        <input type="number" id="students_count" name="students_count" required>
+                        <button type="submit">Add Level & Course</button>
+                    </form>
+                    <h4>Existing Levels & Courses</h4>
+                    <div id="levels_courses_table"></div>
+                </div>
+            
+                <!-- Combined Courses Section -->
+                <div class="data-section">
+                    <h3>Manage Combined Courses</h3>
+                    <form action="backend/add_combined_course.php" method="post">
+                        <label for="course_code_combined">Combined Course Code:</label>
+                        <input type="text" id="course_code_combined" name="course_code_combined" required>
+                        <label for="course_name_combined">Combined Course Name:</label>
+                        <input type="text" id="course_name_combined" name="course_name_combined" required>
+                        <label for="departments_combined">Select Departments:</label>
+                        <select id="departments_combined" name="departments_combined[]" multiple></select>
+                        <label for="students_combined">Total Number of Students:</label>
+                        <input type="number" id="students_combined" name="students_combined" required>
+                        <button type="submit">Add Combined Course</button>
+                    </form>
+                    <h4>Existing Combined Courses</h4>
+                    <div id="combined_courses_table"></div>
+                </div>
+            
+                <!-- Venues Section -->
+                <div class="data-section">
+                    <h3>Manage Venues</h3>
+                    <form action="backend/add_venue.php" method="post">
+                        <label for="venue_name">Venue Name:</label>
+                        <input type="text" id="venue_name" name="venue_name" required>
+                        <label for="capacity">Capacity:</label>
+                        <input type="number" id="capacity" name="capacity" required>
+                        <button type="submit">Add Venue</button>
+                    </form>
+                    <h4>Existing Venues</h4>
+                    <div id="venues_table"></div>
+                </div>
+            
+                <!-- Staff Section -->
+                <div class="data-section">
+                    <h3>Manage Staff</h3>
+                    <form action="backend/add_staff.php" method="post">
+                        <label for="staff_name">Staff Name:</label>
+                        <input type="text" id="staff_name" name="staff_name" required>
+                        <label for="staff_email">Staff Email:</label>
+                        <input type="email" id="staff_email" name="staff_email" required>
+                        <button type="submit">Add Staff</button>
+                    </form>
+                    <h4>Existing Staff</h4>
+                    <div id="staff_table"></div>
+                </div>
+            </section>
+            
+        </div>
+    </div>
+</body>
+</html>

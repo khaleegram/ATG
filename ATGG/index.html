@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Camera Access Request</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f4f4f4;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      color: white;
+      background-color: #008751;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #00693a;
+    }
+  </style>
+</head>
+<body>
+  <h1>Allow Camera Access</h1>
+  <p>Click the button below to allow access to your camera.</p>
+  <button onclick="requestCameraAccess()">Grant Camera Access</button>
+
+  <script>
+    // Function to request camera access
+    async function requestCameraAccess() {
+      try {
+        // Request access to the camera
+        const stream = await navigator.mediaDevices.getUserMedia({ video: true });
+
+        // Store the stream in a global variable to keep it active
+        window.localStorage.setItem('camera-active', 'true');
+        console.log('Camera access granted.');
+
+        // Redirect to the video feed page
+        window.location.href = 'camera-feed.html';
+      } catch (error) {
+        console.error('Error accessing camera:', error);
+        alert('Camera access denied. Please enable it to continue.');
+      }
+    }
+  </script>
+</body>
+</html>

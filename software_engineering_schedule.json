@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2024-01-01",
+        "time": "08:00 - 10:00",
+        "course_code": "SEN101",
+        "course_name": "Introduction to Software",
+        "level": 100,
+        "venue": "Auditorium",
+        "type": "Written"
+    },
+    {
+        "date": "2024-01-01",
+        "time": "10:30 - 12:30",
+        "course_code": "SEN102",
+        "course_name": "Programming Fundamentals",
+        "level": 100,
+        "venue": "Auditorium",
+        "type": "CBT"
+    },
+    {
+        "date": "2024-01-01",
+        "time": "08:00 - 10:00",
+        "course_code": "SEN201",
+        "course_name": "Data Structures",
+        "level": 200,
+        "venue": "Hall A",
+        "type": "Written"
+    },
+    {
+        "date": "2024-01-01",
+        "time": "10:30 - 12:30",
+        "course_code": "SEN202",
+        "course_name": "Algorithms",
+        "level": 200,
+        "venue": "Hall A",
+        "type": "CBT"
+    },
+    {
+        "date": "2024-01-01",
+        "time": "08:00 - 10:00",
+        "course_code": "SEN301",
+        "course_name": "Software Architecture",
+        "level": 300,
+        "venue": "Hall A",
+        "type": "Written"
+    },
+    {
+        "date": "2024-01-01",
+        "time": "10:30 - 12:30",
+        "course_code": "SEN302",
+        "course_name": "Web Development",
+        "level": 300,
+        "venue": "Hall A",
+        "type": "CBT"
+    },
+    {
+        "date": "2024-01-01",
+        "time": "08:00 - 10:00",
+        "course_code": "SEN401",
+        "course_name": "AI Fundamentals",
+        "level": 400,
+        "venue": "Hall A",
+        "type": "Written"
+    },
+    {
+        "date": "2024-01-01",
+        "time": "10:30 - 12:30",
+        "course_code": "SEN402",
+        "course_name": "Machine Learning",
+        "level": 400,
+        "venue": "Hall A",
+        "type": "CBT"
+    }
+]

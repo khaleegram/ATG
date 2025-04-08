@@ -1,0 +1,41 @@
+{
+    "2024-01-08": [
+        {
+            "day": "Monday",
+            "time": "08:00 - 10:00",
+            "course": {
+                "id": "ECO101",
+                "name": "Introduction to Economics"
+            },
+            "programs": [
+                "ECON"
+            ]
+        },
+        {
+            "day": "Monday",
+            "time": "08:00 - 10:00",
+            "course": {
+                "id": "ACC102",
+                "name": "Financial Accounting"
+            },
+            "programs": [
+                "ACCT"
+            ]
+        }
+    ],
+    "2024-01-09": [
+        {
+            "day": "Tuesday",
+            "time": "08:00 - 10:00",
+            "course": {
+                "id": "GSP101",
+                "name": "Use of English (CBT)"
+            },
+            "programs": [
+                "ECON",
+                "ACCT",
+                "BIO"
+            ]
+        }
+    ]
+}

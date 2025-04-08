@@ -1,0 +1,132 @@
+{
+    "2024-01-01": [
+        {
+            "time": "08:00 - 10:00",
+            "course_code": "SEN101",
+            "course_name": "Introduction to Software",
+            "type": "Written",
+            "venue": "Auditorium",
+            "invigilator": "Prof. Johnson"
+        },
+        {
+            "time": "10:30 - 12:30",
+            "course_code": "SEN102",
+            "course_name": "Programming Fundamentals",
+            "type": "CBT",
+            "venue": "Auditorium",
+            "invigilator": "Prof. Carter"
+        },
+        {
+            "time": "08:00 - 10:00",
+            "course_code": "SEN201",
+            "course_name": "Data Structures",
+            "type": "Written",
+            "venue": "Hall A",
+            "invigilator": "Prof. Johnson"
+        },
+        {
+            "time": "10:30 - 12:30",
+            "course_code": "SEN202",
+            "course_name": "Algorithms",
+            "type": "CBT",
+            "venue": "Hall A",
+            "invigilator": "Dr. Smith"
+        },
+        {
+            "time": "08:00 - 10:00",
+            "course_code": "SEN301",
+            "course_name": "Software Architecture",
+            "type": "Written",
+            "venue": "Hall A",
+            "invigilator": "Dr. Smith"
+        },
+        {
+            "time": "10:30 - 12:30",
+            "course_code": "SEN302",
+            "course_name": "Web Development",
+            "type": "CBT",
+            "venue": "Hall A",
+            "invigilator": "Prof. Johnson"
+        },
+        {
+            "time": "08:00 - 10:00",
+            "course_code": "SEN401",
+            "course_name": "AI Fundamentals",
+            "type": "Written",
+            "venue": "Hall A",
+            "invigilator": "Prof. Carter"
+        },
+        {
+            "time": "10:30 - 12:30",
+            "course_code": "SEN402",
+            "course_name": "Machine Learning",
+            "type": "CBT",
+            "venue": "Hall A",
+            "invigilator": "Dr. Smith"
+        },
+        {
+            "time": "14:00 - 16:00",
+            "course_code": "CSC101",
+            "course_name": "Computer Basics",
+            "type": "Written",
+            "venue": "Auditorium",
+            "invigilator": "Dr. Smith"
+        },
+        {
+            "time": "16:30 - 18:00",
+            "course_code": "CSC102",
+            "course_name": "Digital Logic",
+            "type": "CBT",
+            "venue": "Auditorium",
+            "invigilator": "Prof. Johnson"
+        },
+        {
+            "time": "14:00 - 16:00",
+            "course_code": "CSC201",
+            "course_name": "Operating Systems",
+            "type": "Written",
+            "venue": "Hall A",
+            "invigilator": "Prof. Johnson"
+        },
+        {
+            "time": "16:30 - 18:00",
+            "course_code": "CSC202",
+            "course_name": "Database Systems",
+            "type": "CBT",
+            "venue": "Hall A",
+            "invigilator": "Dr. Lee"
+        },
+        {
+            "time": "14:00 - 16:00",
+            "course_code": "CSC301",
+            "course_name": "Computer Networks",
+            "type": "Written",
+            "venue": "Hall A",
+            "invigilator": "Dr. Lee"
+        },
+        {
+            "time": "16:30 - 18:00",
+            "course_code": "CSC302",
+            "course_name": "Cryptography",
+            "type": "CBT",
+            "venue": "Hall A",
+            "invigilator": "Prof. Johnson"
+        },
+        {
+            "time": "14:00 - 16:00",
+            "course_code": "CSC401",
+            "course_name": "Cybersecurity",
+            "type": "Written",
+            "venue": "Hall A",
+            "invigilator": "Dr. Lee"
+        },
+        {
+            "time": "16:30 - 18:00",
+            "course_code": "CSC402",
+            "course_name": "Cloud Computing",
+            "type": "CBT",
+            "venue": "Hall A",
+            "invigilator": "Dr. Lee"
+        }
+    ]
+}

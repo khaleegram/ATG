@@ -1,0 +1,142 @@
+{
+    "colleges": {
+        "SMS": [
+            "Economics",
+            "Accounting",
+            "Business Administration"
+        ],
+        "NAS": [
+            "Biology",
+            "Physics",
+            "Mathematics",
+            "Microbiology"
+        ],
+        "CIS": [
+            "Software Engineering",
+            "Computer Science",
+            "Cybersecurity"
+        ]
+    },
+    "departments": [
+        {
+            "department_id": "ECON",
+            "department_name": "Economics",
+            "college_id": "SMS"
+        },
+        {
+            "department_id": "ACCT",
+            "department_name": "Accounting",
+            "college_id": "SMS"
+        },
+        {
+            "department_id": "BIO",
+            "department_name": "Biology",
+            "college_id": "NAS"
+        }
+    ],
+    "courses": [
+        {
+            "course_id": "ECO101",
+            "course_name": "Introduction to Economics",
+            "level_id": 1
+        },
+        {
+            "course_id": "ACC102",
+            "course_name": "Financial Accounting",
+            "level_id": 2
+        }
+    ],
+    "combined_courses": [
+        {
+            "course_id": "GSP101",
+            "course_name": "Use of English (CBT)",
+            "departments": [
+                "ECON",
+                "ACCT",
+                "BIO"
+            ]
+        }
+    ],
+    "levels": [
+        {
+            "level_id": 1,
+            "department_id": "ECON",
+            "num_students": 120
+        },
+        {
+            "level_id": 2,
+            "department_id": "ACCT",
+            "num_students": 100
+        },
+        {
+            "level_id": 1,
+            "department_id": "BIO",
+            "num_students": 90
+        }
+    ],
+    "time_slots": [
+        "08:00 - 10:00",
+        "10:00 - 12:00",
+        "13:00 - 15:00",
+        "15:00 - 17:00",
+        "17:00 - 19:00"
+    ],
+    "date_range": [
+        {
+            "date": "2024-01-08",
+            "day": "Monday"
+        },
+        {
+            "date": "2024-01-09",
+            "day": "Tuesday"
+        },
+        {
+            "date": "2024-01-10",
+            "day": "Wednesday"
+        },
+        {
+            "date": "2024-01-11",
+            "day": "Thursday"
+        },
+        {
+            "date": "2024-01-12",
+            "day": "Friday"
+        },
+        {
+            "date": "2024-01-13",
+            "day": "Saturday"
+        },
+        {
+            "date": "2024-01-14",
+            "day": "Sunday"
+        },
+        {
+            "date": "2024-01-15",
+            "day": "Monday"
+        },
+        {
+            "date": "2024-01-16",
+            "day": "Tuesday"
+        },
+        {
+            "date": "2024-01-17",
+            "day": "Wednesday"
+        },
+        {
+            "date": "2024-01-18",
+            "day": "Thursday"
+        },
+        {
+            "date": "2024-01-19",
+            "day": "Friday"
+        },
+        {
+            "date": "2024-01-20",
+            "day": "Saturday"
+        },
+        {
+            "date": "2024-01-21",
+            "day": "Sunday"
+        }
+    ]
+}

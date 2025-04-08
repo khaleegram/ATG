@@ -1,0 +1,6357 @@
+{
+    "colleges": [
+        {
+            "name": "College of Engineering",
+            "departments": [
+                "Department 23",
+                "Department 13",
+                "Department 20",
+                "Department 28"
+            ]
+        },
+        {
+            "name": "College of Science",
+            "departments": [
+                "Department 26",
+                "Department 13",
+                "Department 6",
+                "Department 21"
+            ]
+        },
+        {
+            "name": "College of Arts",
+            "departments": [
+                "Department 23",
+                "Department 13",
+                "Department 14",
+                "Department 28"
+            ]
+        },
+        {
+            "name": "College of Medicine",
+            "departments": [
+                "Department 5",
+                "Department 16",
+                "Department 15",
+                "Department 25"
+            ]
+        },
+        {
+            "name": "College of Business",
+            "departments": [
+                "Department 12",
+                "Department 27",
+                "Department 1",
+                "Department 9"
+            ]
+        },
+        {
+            "name": "College of Law",
+            "departments": [
+                "Department 4",
+                "Department 7",
+                "Department 1",
+                "Department 19"
+            ]
+        }
+    ],
+    "departments": [
+        "Department 23",
+        "Department 13",
+        "Department 20",
+        "Department 28",
+        "Department 26",
+        "Department 13",
+        "Department 6",
+        "Department 21",
+        "Department 23",
+        "Department 13",
+        "Department 14",
+        "Department 28",
+        "Department 5",
+        "Department 16",
+        "Department 15",
+        "Department 25",
+        "Department 12",
+        "Department 27",
+        "Department 1",
+        "Department 9",
+        "Department 4",
+        "Department 7",
+        "Department 1",
+        "Department 19"
+    ],
+    "courses": [
+        {
+            "name": "Department 23 Course 100-1",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-2",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-3",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-4",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-5",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-6",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-7",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-8",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-9",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-10",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-11",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-12",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-13",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-14",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-1",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-2",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-3",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-4",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-5",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-6",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-7",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-8",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-9",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-10",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-1",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-2",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-3",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-4",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-5",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-6",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-7",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-8",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-9",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-10",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-11",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-12",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-1",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-2",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-3",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-4",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-5",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-6",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-7",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-8",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-9",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-10",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-11",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-12",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 13 Course 100-1",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-2",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-3",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-4",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-5",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-6",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-7",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-8",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-9",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-10",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-11",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-1",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-2",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-3",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-4",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-5",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-6",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-7",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-8",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-9",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-10",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-11",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-1",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-2",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-3",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-4",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-5",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-6",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-7",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-8",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-9",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-10",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-11",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-12",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-1",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-2",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-3",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-4",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-5",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-6",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-7",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-8",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-9",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-10",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 20 Course 100-1",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-2",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-3",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-4",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-5",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-6",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-7",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-8",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-9",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-10",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-11",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-12",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-13",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 100-14",
+            "level": 100,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-1",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-2",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-3",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-4",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-5",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-6",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-7",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-8",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-9",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-10",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-11",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-12",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 200-13",
+            "level": 200,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-1",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-2",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-3",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-4",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-5",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-6",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-7",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-8",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-9",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-10",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-11",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-12",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 300-13",
+            "level": 300,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-1",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-2",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-3",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-4",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-5",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-6",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-7",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-8",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-9",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-10",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-11",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 20 Course 400-12",
+            "level": 400,
+            "department": "Department 20"
+        },
+        {
+            "name": "Department 28 Course 100-1",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-2",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-3",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-4",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-5",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-6",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-7",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-8",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-9",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-10",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-11",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-12",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-1",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-2",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-3",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-4",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-5",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-6",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-7",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-8",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-9",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-10",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-11",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-12",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-13",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-14",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-1",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-2",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-3",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-4",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-5",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-6",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-7",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-8",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-9",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-10",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-1",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-2",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-3",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-4",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-5",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-6",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-7",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-8",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-9",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-10",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-11",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-12",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 26 Course 100-1",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-2",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-3",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-4",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-5",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-6",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-7",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-8",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-9",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-10",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-11",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 100-12",
+            "level": 100,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-1",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-2",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-3",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-4",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-5",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-6",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-7",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-8",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-9",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-10",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-11",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 200-12",
+            "level": 200,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-1",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-2",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-3",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-4",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-5",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-6",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-7",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-8",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-9",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-10",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-11",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-12",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-13",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 300-14",
+            "level": 300,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-1",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-2",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-3",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-4",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-5",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-6",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-7",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-8",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-9",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-10",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 26 Course 400-11",
+            "level": 400,
+            "department": "Department 26"
+        },
+        {
+            "name": "Department 13 Course 100-1",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-2",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-3",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-4",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-5",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-6",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-7",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-8",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-9",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-10",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-1",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-2",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-3",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-4",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-5",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-6",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-7",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-8",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-9",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-10",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-11",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-1",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-2",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-3",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-4",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-5",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-6",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-7",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-8",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-9",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-10",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-1",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-2",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-3",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-4",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-5",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-6",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-7",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-8",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-9",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-10",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-11",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-12",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 6 Course 100-1",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-2",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-3",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-4",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-5",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-6",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-7",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-8",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-9",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 100-10",
+            "level": 100,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-1",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-2",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-3",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-4",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-5",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-6",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-7",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-8",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-9",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-10",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-11",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 200-12",
+            "level": 200,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-1",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-2",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-3",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-4",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-5",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-6",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-7",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-8",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-9",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-10",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-11",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-12",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-13",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 300-14",
+            "level": 300,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-1",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-2",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-3",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-4",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-5",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-6",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-7",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-8",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-9",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-10",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-11",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 6 Course 400-12",
+            "level": 400,
+            "department": "Department 6"
+        },
+        {
+            "name": "Department 21 Course 100-1",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-2",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-3",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-4",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-5",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-6",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-7",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-8",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-9",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-10",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 100-11",
+            "level": 100,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-1",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-2",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-3",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-4",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-5",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-6",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-7",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-8",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-9",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 200-10",
+            "level": 200,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-1",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-2",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-3",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-4",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-5",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-6",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-7",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-8",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-9",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 300-10",
+            "level": 300,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-1",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-2",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-3",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-4",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-5",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-6",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-7",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-8",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-9",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-10",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-11",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-12",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-13",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 21 Course 400-14",
+            "level": 400,
+            "department": "Department 21"
+        },
+        {
+            "name": "Department 23 Course 100-1",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-2",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-3",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-4",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-5",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-6",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-7",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-8",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-9",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-10",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-11",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-12",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 100-13",
+            "level": 100,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-1",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-2",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-3",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-4",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-5",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-6",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-7",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-8",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-9",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-10",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-11",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-12",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-13",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 200-14",
+            "level": 200,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-1",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-2",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-3",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-4",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-5",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-6",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-7",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-8",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-9",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-10",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-11",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-12",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-13",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 300-14",
+            "level": 300,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-1",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-2",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-3",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-4",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-5",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-6",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-7",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-8",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-9",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-10",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-11",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-12",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-13",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 23 Course 400-14",
+            "level": 400,
+            "department": "Department 23"
+        },
+        {
+            "name": "Department 13 Course 100-1",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-2",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-3",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-4",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-5",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-6",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-7",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-8",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-9",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 100-10",
+            "level": 100,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-1",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-2",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-3",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-4",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-5",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-6",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-7",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-8",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-9",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-10",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-11",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-12",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-13",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 200-14",
+            "level": 200,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-1",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-2",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-3",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-4",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-5",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-6",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-7",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-8",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-9",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-10",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-11",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-12",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 300-13",
+            "level": 300,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-1",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-2",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-3",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-4",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-5",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-6",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-7",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-8",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-9",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-10",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-11",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-12",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-13",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 13 Course 400-14",
+            "level": 400,
+            "department": "Department 13"
+        },
+        {
+            "name": "Department 14 Course 100-1",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-2",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-3",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-4",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-5",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-6",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-7",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-8",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-9",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-10",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-11",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-12",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-13",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 100-14",
+            "level": 100,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-1",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-2",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-3",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-4",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-5",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-6",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-7",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-8",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-9",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-10",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-11",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-12",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-13",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 200-14",
+            "level": 200,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-1",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-2",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-3",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-4",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-5",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-6",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-7",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-8",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-9",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-10",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-11",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 300-12",
+            "level": 300,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-1",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-2",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-3",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-4",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-5",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-6",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-7",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-8",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-9",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-10",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 14 Course 400-11",
+            "level": 400,
+            "department": "Department 14"
+        },
+        {
+            "name": "Department 28 Course 100-1",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-2",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-3",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-4",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-5",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-6",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-7",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-8",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-9",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-10",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-11",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-12",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 100-13",
+            "level": 100,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-1",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-2",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-3",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-4",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-5",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-6",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-7",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-8",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-9",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-10",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-11",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 200-12",
+            "level": 200,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-1",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-2",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-3",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-4",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-5",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-6",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-7",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-8",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-9",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-10",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-11",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 300-12",
+            "level": 300,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-1",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-2",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-3",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-4",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-5",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-6",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-7",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-8",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-9",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-10",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-11",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 28 Course 400-12",
+            "level": 400,
+            "department": "Department 28"
+        },
+        {
+            "name": "Department 5 Course 100-1",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-2",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-3",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-4",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-5",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-6",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-7",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-8",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-9",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-10",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-11",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-12",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 100-13",
+            "level": 100,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-1",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-2",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-3",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-4",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-5",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-6",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-7",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-8",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-9",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-10",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-11",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-12",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 200-13",
+            "level": 200,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-1",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-2",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-3",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-4",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-5",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-6",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-7",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-8",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-9",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-10",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-11",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-12",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-13",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 300-14",
+            "level": 300,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-1",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-2",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-3",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-4",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-5",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-6",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-7",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-8",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-9",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 5 Course 400-10",
+            "level": 400,
+            "department": "Department 5"
+        },
+        {
+            "name": "Department 16 Course 100-1",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-2",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-3",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-4",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-5",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-6",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-7",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-8",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-9",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-10",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-11",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-12",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 100-13",
+            "level": 100,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-1",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-2",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-3",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-4",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-5",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-6",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-7",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-8",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-9",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-10",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-11",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-12",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 200-13",
+            "level": 200,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-1",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-2",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-3",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-4",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-5",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-6",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-7",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-8",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-9",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-10",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-11",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-12",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-13",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 300-14",
+            "level": 300,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-1",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-2",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-3",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-4",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-5",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-6",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-7",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-8",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-9",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 16 Course 400-10",
+            "level": 400,
+            "department": "Department 16"
+        },
+        {
+            "name": "Department 15 Course 100-1",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-2",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-3",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-4",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-5",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-6",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-7",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-8",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-9",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-10",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-11",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-12",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-13",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 100-14",
+            "level": 100,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-1",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-2",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-3",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-4",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-5",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-6",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-7",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-8",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-9",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 200-10",
+            "level": 200,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-1",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-2",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-3",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-4",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-5",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-6",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-7",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-8",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-9",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-10",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 300-11",
+            "level": 300,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-1",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-2",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-3",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-4",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-5",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-6",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-7",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-8",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-9",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-10",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 15 Course 400-11",
+            "level": 400,
+            "department": "Department 15"
+        },
+        {
+            "name": "Department 25 Course 100-1",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-2",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-3",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-4",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-5",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-6",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-7",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-8",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-9",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-10",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-11",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-12",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 100-13",
+            "level": 100,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-1",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-2",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-3",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-4",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-5",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-6",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-7",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-8",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-9",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 200-10",
+            "level": 200,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-1",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-2",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-3",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-4",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-5",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-6",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-7",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-8",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-9",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 300-10",
+            "level": 300,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-1",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-2",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-3",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-4",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-5",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-6",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-7",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-8",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-9",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-10",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-11",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-12",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-13",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 25 Course 400-14",
+            "level": 400,
+            "department": "Department 25"
+        },
+        {
+            "name": "Department 12 Course 100-1",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-2",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-3",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-4",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-5",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-6",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-7",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-8",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-9",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-10",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-11",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 100-12",
+            "level": 100,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-1",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-2",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-3",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-4",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-5",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-6",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-7",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-8",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-9",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-10",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-11",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-12",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 200-13",
+            "level": 200,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-1",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-2",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-3",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-4",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-5",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-6",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-7",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-8",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-9",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-10",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 300-11",
+            "level": 300,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-1",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-2",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-3",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-4",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-5",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-6",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-7",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-8",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-9",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-10",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 12 Course 400-11",
+            "level": 400,
+            "department": "Department 12"
+        },
+        {
+            "name": "Department 27 Course 100-1",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-2",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-3",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-4",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-5",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-6",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-7",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-8",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-9",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-10",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-11",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-12",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 100-13",
+            "level": 100,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-1",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-2",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-3",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-4",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-5",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-6",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-7",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-8",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-9",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-10",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-11",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-12",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-13",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 200-14",
+            "level": 200,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-1",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-2",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-3",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-4",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-5",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-6",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-7",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-8",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-9",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-10",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-11",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-12",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-13",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 300-14",
+            "level": 300,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-1",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-2",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-3",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-4",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-5",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-6",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-7",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-8",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-9",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-10",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-11",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-12",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 27 Course 400-13",
+            "level": 400,
+            "department": "Department 27"
+        },
+        {
+            "name": "Department 1 Course 100-1",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-2",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-3",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-4",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-5",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-6",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-7",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-8",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-9",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-10",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-11",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-12",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-13",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-14",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-1",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-2",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-3",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-4",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-5",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-6",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-7",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-8",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-9",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-10",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-11",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-12",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-13",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-1",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-2",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-3",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-4",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-5",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-6",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-7",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-8",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-9",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-10",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-1",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-2",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-3",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-4",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-5",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-6",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-7",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-8",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-9",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-10",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-11",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-12",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-13",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-14",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 9 Course 100-1",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-2",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-3",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-4",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-5",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-6",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-7",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-8",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-9",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-10",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 100-11",
+            "level": 100,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-1",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-2",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-3",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-4",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-5",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-6",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-7",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-8",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-9",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-10",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-11",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 200-12",
+            "level": 200,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-1",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-2",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-3",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-4",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-5",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-6",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-7",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-8",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-9",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-10",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-11",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-12",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 300-13",
+            "level": 300,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-1",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-2",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-3",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-4",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-5",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-6",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-7",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-8",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-9",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-10",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-11",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-12",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-13",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 9 Course 400-14",
+            "level": 400,
+            "department": "Department 9"
+        },
+        {
+            "name": "Department 4 Course 100-1",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-2",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-3",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-4",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-5",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-6",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-7",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-8",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-9",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-10",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-11",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-12",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 100-13",
+            "level": 100,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-1",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-2",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-3",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-4",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-5",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-6",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-7",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-8",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-9",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 200-10",
+            "level": 200,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-1",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-2",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-3",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-4",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-5",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-6",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-7",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-8",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-9",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-10",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 300-11",
+            "level": 300,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-1",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-2",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-3",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-4",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-5",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-6",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-7",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-8",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-9",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-10",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 4 Course 400-11",
+            "level": 400,
+            "department": "Department 4"
+        },
+        {
+            "name": "Department 7 Course 100-1",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-2",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-3",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-4",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-5",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-6",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-7",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-8",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-9",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-10",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-11",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-12",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-13",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 100-14",
+            "level": 100,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-1",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-2",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-3",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-4",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-5",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-6",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-7",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-8",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-9",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-10",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-11",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 200-12",
+            "level": 200,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-1",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-2",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-3",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-4",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-5",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-6",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-7",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-8",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-9",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-10",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-11",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-12",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 300-13",
+            "level": 300,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-1",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-2",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-3",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-4",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-5",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-6",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-7",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-8",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-9",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-10",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-11",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 7 Course 400-12",
+            "level": 400,
+            "department": "Department 7"
+        },
+        {
+            "name": "Department 1 Course 100-1",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-2",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-3",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-4",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-5",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-6",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-7",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-8",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-9",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-10",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-11",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 100-12",
+            "level": 100,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-1",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-2",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-3",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-4",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-5",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-6",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-7",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-8",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-9",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 200-10",
+            "level": 200,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-1",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-2",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-3",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-4",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-5",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-6",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-7",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-8",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-9",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-10",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-11",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 300-12",
+            "level": 300,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-1",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-2",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-3",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-4",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-5",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-6",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-7",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-8",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-9",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-10",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-11",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-12",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-13",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 1 Course 400-14",
+            "level": 400,
+            "department": "Department 1"
+        },
+        {
+            "name": "Department 19 Course 100-1",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-2",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-3",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-4",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-5",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-6",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-7",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-8",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-9",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-10",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-11",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 100-12",
+            "level": 100,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-1",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-2",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-3",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-4",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-5",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-6",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-7",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-8",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-9",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-10",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 200-11",
+            "level": 200,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-1",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-2",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-3",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-4",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-5",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-6",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-7",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-8",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-9",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-10",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 300-11",
+            "level": 300,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-1",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-2",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-3",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-4",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-5",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-6",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-7",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-8",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-9",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-10",
+            "level": 400,
+            "department": "Department 19"
+        },
+        {
+            "name": "Department 19 Course 400-11",
+            "level": 400,
+            "department": "Department 19"
+        }
+    ],
+    "students_summary": [
+        {
+            "department": "Department 23",
+            "students": {
+                "level_100": 160,
+                "level_200": 115,
+                "level_300": 103,
+                "level_400": 26
+            }
+        },
+        {
+            "department": "Department 13",
+            "students": {
+                "level_100": 20,
+                "level_200": 96,
+                "level_300": 116,
+                "level_400": 33
+            }
+        },
+        {
+            "department": "Department 20",
+            "students": {
+                "level_100": 61,
+                "level_200": 20,
+                "level_300": 112,
+                "level_400": 61
+            }
+        },
+        {
+            "department": "Department 28",
+            "students": {
+                "level_100": 154,
+                "level_200": 133,
+                "level_300": 109,
+                "level_400": 49
+            }
+        },
+        {
+            "department": "Department 26",
+            "students": {
+                "level_100": 179,
+                "level_200": 132,
+                "level_300": 118,
+                "level_400": 61
+            }
+        },
+        {
+            "department": "Department 13",
+            "students": {
+                "level_100": 74,
+                "level_200": 109,
+                "level_300": 98,
+                "level_400": 88
+            }
+        },
+        {
+            "department": "Department 6",
+            "students": {
+                "level_100": 94,
+                "level_200": 105,
+                "level_300": 73,
+                "level_400": 34
+            }
+        },
+        {
+            "department": "Department 21",
+            "students": {
+                "level_100": 116,
+                "level_200": 65,
+                "level_300": 114,
+                "level_400": 40
+            }
+        },
+        {
+            "department": "Department 23",
+            "students": {
+                "level_100": 84,
+                "level_200": 44,
+                "level_300": 104,
+                "level_400": 85
+            }
+        },
+        {
+            "department": "Department 13",
+            "students": {
+                "level_100": 34,
+                "level_200": 49,
+                "level_300": 61,
+                "level_400": 39
+            }
+        },
+        {
+            "department": "Department 14",
+            "students": {
+                "level_100": 104,
+                "level_200": 95,
+                "level_300": 49,
+                "level_400": 49
+            }
+        },
+        {
+            "department": "Department 28",
+            "students": {
+                "level_100": 190,
+                "level_200": 143,
+                "level_300": 36,
+                "level_400": 42
+            }
+        },
+        {
+            "department": "Department 5",
+            "students": {
+                "level_100": 163,
+                "level_200": 57,
+                "level_300": 114,
+                "level_400": 34
+            }
+        },
+        {
+            "department": "Department 16",
+            "students": {
+                "level_100": 28,
+                "level_200": 135,
+                "level_300": 40,
+                "level_400": 33
+            }
+        },
+        {
+            "department": "Department 15",
+            "students": {
+                "level_100": 11,
+                "level_200": 140,
+                "level_300": 112,
+                "level_400": 75
+            }
+        },
+        {
+            "department": "Department 25",
+            "students": {
+                "level_100": 89,
+                "level_200": 45,
+                "level_300": 111,
+                "level_400": 69
+            }
+        },
+        {
+            "department": "Department 12",
+            "students": {
+                "level_100": 133,
+                "level_200": 125,
+                "level_300": 118,
+                "level_400": 72
+            }
+        },
+        {
+            "department": "Department 27",
+            "students": {
+                "level_100": 110,
+                "level_200": 140,
+                "level_300": 51,
+                "level_400": 82
+            }
+        },
+        {
+            "department": "Department 1",
+            "students": {
+                "level_100": 77,
+                "level_200": 120,
+                "level_300": 46,
+                "level_400": 76
+            }
+        },
+        {
+            "department": "Department 9",
+            "students": {
+                "level_100": 162,
+                "level_200": 53,
+                "level_300": 82,
+                "level_400": 91
+            }
+        },
+        {
+            "department": "Department 4",
+            "students": {
+                "level_100": 119,
+                "level_200": 126,
+                "level_300": 92,
+                "level_400": 41
+            }
+        },
+        {
+            "department": "Department 7",
+            "students": {
+                "level_100": 65,
+                "level_200": 84,
+                "level_300": 101,
+                "level_400": 40
+            }
+        },
+        {
+            "department": "Department 1",
+            "students": {
+                "level_100": 113,
+                "level_200": 36,
+                "level_300": 101,
+                "level_400": 87
+            }
+        },
+        {
+            "department": "Department 19",
+            "students": {
+                "level_100": 167,
+                "level_200": 100,
+                "level_300": 63,
+                "level_400": 91
+            }
+        }
+    ],
+    "venues": [
+        {
+            "name": "Venue 1",
+            "capacity": 50
+        },
+        {
+            "name": "Venue 2",
+            "capacity": 60
+        },
+        {
+            "name": "Venue 3",
+            "capacity": 70
+        },
+        {
+            "name": "Venue 4",
+            "capacity": 80
+        },
+        {
+            "name": "Venue 5",
+            "capacity": 90
+        },
+        {
+            "name": "Venue 6",
+            "capacity": 100
+        },
+        {
+            "name": "Venue 7",
+            "capacity": 110
+        },
+        {
+            "name": "Venue 8",
+            "capacity": 120
+        },
+        {
+            "name": "Venue 9",
+            "capacity": 130
+        },
+        {
+            "name": "Venue 10",
+            "capacity": 140
+        },
+        {
+            "name": "Venue 11",
+            "capacity": 150
+        },
+        {
+            "name": "Venue 12",
+            "capacity": 160
+        },
+        {
+            "name": "Venue 13",
+            "capacity": 170
+        },
+        {
+            "name": "Venue 14",
+            "capacity": 180
+        },
+        {
+            "name": "Venue 15",
+            "capacity": 190
+        },
+        {
+            "name": "Venue 16",
+            "capacity": 200
+        },
+        {
+            "name": "Venue 17",
+            "capacity": 210
+        },
+        {
+            "name": "Venue 18",
+            "capacity": 220
+        },
+        {
+            "name": "Venue 19",
+            "capacity": 230
+        },
+        {
+            "name": "Venue 20",
+            "capacity": 240
+        },
+        {
+            "name": "Venue 21",
+            "capacity": 250
+        },
+        {
+            "name": "Venue 22",
+            "capacity": 260
+        },
+        {
+            "name": "Venue 23",
+            "capacity": 270
+        },
+        {
+            "name": "Venue 24",
+            "capacity": 280
+        },
+        {
+            "name": "Venue 25",
+            "capacity": 290
+        },
+        {
+            "name": "Venue 26",
+            "capacity": 300
+        },
+        {
+            "name": "Venue 27",
+            "capacity": 310
+        },
+        {
+            "name": "Venue 28",
+            "capacity": 320
+        }
+    ],
+    "invigilators": [
+        {
+            "name": "Invigilator 1"
+        },
+        {
+            "name": "Invigilator 2"
+        },
+        {
+            "name": "Invigilator 3"
+        },
+        {
+            "name": "Invigilator 4"
+        },
+        {
+            "name": "Invigilator 5"
+        },
+        {
+            "name": "Invigilator 6"
+        },
+        {
+            "name": "Invigilator 7"
+        },
+        {
+            "name": "Invigilator 8"
+        },
+        {
+            "name": "Invigilator 9"
+        },
+        {
+            "name": "Invigilator 10"
+        },
+        {
+            "name": "Invigilator 11"
+        },
+        {
+            "name": "Invigilator 12"
+        },
+        {
+            "name": "Invigilator 13"
+        },
+        {
+            "name": "Invigilator 14"
+        },
+        {
+            "name": "Invigilator 15"
+        },
+        {
+            "name": "Invigilator 16"
+        },
+        {
+            "name": "Invigilator 17"
+        },
+        {
+            "name": "Invigilator 18"
+        },
+        {
+            "name": "Invigilator 19"
+        },
+        {
+            "name": "Invigilator 20"
+        }
+    ],
+    "time_slots": [
+        "8:00",
+        "9:00",
+        "10:00",
+        "11:00",
+        "12:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00"
+    ],
+    "lunch_break": "13:00",
+    "dates": [
+        "2024-01-08",
+        "2024-01-09",
+        "2024-01-10",
+        "2024-01-11",
+        "2024-01-12",
+        "2024-01-13",
+        "2024-01-15",
+        "2024-01-16",
+        "2024-01-17",
+        "2024-01-18",
+        "2024-01-19",
+        "2024-01-20",
+        "2024-01-22",
+        "2024-01-23",
+        "2024-01-24",
+        "2024-01-25",
+        "2024-01-26",
+        "2024-01-27",
+        "2024-01-29",
+        "2024-01-30",
+        "2024-01-31",
+        "2024-01-32",
+        "2024-01-33",
+        "2024-01-34"
+    ],
+    "metadata": {
+        "version": "v1.0",
+        "generated_on": "2024-12-21 23:33:43"
+    }
+}

@@ -1,0 +1,3024 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Software Engineering",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 2,
+            "name": "Computer Science",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 3,
+            "name": "Cybersecurity",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 4,
+            "name": "Biology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 5,
+            "name": "Microbiology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 6,
+            "name": "Science Laboratory Technology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 7,
+            "name": "Mathematics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 8,
+            "name": "Physics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 9,
+            "name": "Economics",
+            "college": "Social Sciences"
+        },
+        {
+            "id": 10,
+            "name": "Accounting",
+            "college": "Social Sciences"
+        }
+    ],
+    "venues": [
+        {
+            "id": 1,
+            "name": "Venue 1",
+            "capacity": 50
+        },
+        {
+            "id": 2,
+            "name": "Venue 2",
+            "capacity": 60
+        },
+        {
+            "id": 3,
+            "name": "Venue 3",
+            "capacity": 70
+        },
+        {
+            "id": 4,
+            "name": "Venue 4",
+            "capacity": 80
+        },
+        {
+            "id": 5,
+            "name": "Venue 5",
+            "capacity": 90
+        },
+        {
+            "id": 6,
+            "name": "Venue 6",
+            "capacity": 100
+        },
+        {
+            "id": 7,
+            "name": "Venue 7",
+            "capacity": 110
+        },
+        {
+            "id": 8,
+            "name": "Venue 8",
+            "capacity": 120
+        },
+        {
+            "id": 9,
+            "name": "Venue 9",
+            "capacity": 130
+        },
+        {
+            "id": 10,
+            "name": "Venue 10",
+            "capacity": 140
+        },
+        {
+            "id": 11,
+            "name": "Venue 11",
+            "capacity": 150
+        },
+        {
+            "id": 12,
+            "name": "Venue 12",
+            "capacity": 160
+        },
+        {
+            "id": 13,
+            "name": "Venue 13",
+            "capacity": 170
+        },
+        {
+            "id": 14,
+            "name": "Venue 14",
+            "capacity": 180
+        },
+        {
+            "id": 15,
+            "name": "Venue 15",
+            "capacity": 190
+        },
+        {
+            "id": 16,
+            "name": "Venue 16",
+            "capacity": 200
+        },
+        {
+            "id": 17,
+            "name": "Venue 17",
+            "capacity": 210
+        },
+        {
+            "id": 18,
+            "name": "Venue 18",
+            "capacity": 220
+        },
+        {
+            "id": 19,
+            "name": "Venue 19",
+            "capacity": 230
+        },
+        {
+            "id": 20,
+            "name": "Venue 20",
+            "capacity": 240
+        },
+        {
+            "id": 21,
+            "name": "Venue 21",
+            "capacity": 250
+        },
+        {
+            "id": 22,
+            "name": "Venue 22",
+            "capacity": 260
+        },
+        {
+            "id": 23,
+            "name": "Venue 23",
+            "capacity": 270
+        },
+        {
+            "id": 24,
+            "name": "Venue 24",
+            "capacity": 280
+        },
+        {
+            "id": 25,
+            "name": "Venue 25",
+            "capacity": 290
+        },
+        {
+            "id": 26,
+            "name": "Venue 26",
+            "capacity": 300
+        },
+        {
+            "id": 27,
+            "name": "Venue 27",
+            "capacity": 310
+        },
+        {
+            "id": 28,
+            "name": "Venue 28",
+            "capacity": 320
+        },
+        {
+            "id": 29,
+            "name": "Venue 29",
+            "capacity": 330
+        }
+    ],
+    "invigilators": [
+        {
+            "id": 1,
+            "name": "Invigilator 1"
+        },
+        {
+            "id": 2,
+            "name": "Invigilator 2"
+        },
+        {
+            "id": 3,
+            "name": "Invigilator 3"
+        },
+        {
+            "id": 4,
+            "name": "Invigilator 4"
+        },
+        {
+            "id": 5,
+            "name": "Invigilator 5"
+        },
+        {
+            "id": 6,
+            "name": "Invigilator 6"
+        },
+        {
+            "id": 7,
+            "name": "Invigilator 7"
+        },
+        {
+            "id": 8,
+            "name": "Invigilator 8"
+        },
+        {
+            "id": 9,
+            "name": "Invigilator 9"
+        },
+        {
+            "id": 10,
+            "name": "Invigilator 10"
+        },
+        {
+            "id": 11,
+            "name": "Invigilator 11"
+        },
+        {
+            "id": 12,
+            "name": "Invigilator 12"
+        },
+        {
+            "id": 13,
+            "name": "Invigilator 13"
+        },
+        {
+            "id": 14,
+            "name": "Invigilator 14"
+        },
+        {
+            "id": 15,
+            "name": "Invigilator 15"
+        },
+        {
+            "id": 16,
+            "name": "Invigilator 16"
+        },
+        {
+            "id": 17,
+            "name": "Invigilator 17"
+        },
+        {
+            "id": 18,
+            "name": "Invigilator 18"
+        },
+        {
+            "id": 19,
+            "name": "Invigilator 19"
+        },
+        {
+            "id": 20,
+            "name": "Invigilator 20"
+        },
+        {
+            "id": 21,
+            "name": "Invigilator 21"
+        },
+        {
+            "id": 22,
+            "name": "Invigilator 22"
+        },
+        {
+            "id": 23,
+            "name": "Invigilator 23"
+        },
+        {
+            "id": 24,
+            "name": "Invigilator 24"
+        },
+        {
+            "id": 25,
+            "name": "Invigilator 25"
+        },
+        {
+            "id": 26,
+            "name": "Invigilator 26"
+        },
+        {
+            "id": 27,
+            "name": "Invigilator 27"
+        },
+        {
+            "id": 28,
+            "name": "Invigilator 28"
+        },
+        {
+            "id": 29,
+            "name": "Invigilator 29"
+        },
+        {
+            "id": 30,
+            "name": "Invigilator 30"
+        },
+        {
+            "id": 31,
+            "name": "Invigilator 31"
+        },
+        {
+            "id": 32,
+            "name": "Invigilator 32"
+        },
+        {
+            "id": 33,
+            "name": "Invigilator 33"
+        },
+        {
+            "id": 34,
+            "name": "Invigilator 34"
+        },
+        {
+            "id": 35,
+            "name": "Invigilator 35"
+        },
+        {
+            "id": 36,
+            "name": "Invigilator 36"
+        },
+        {
+            "id": 37,
+            "name": "Invigilator 37"
+        },
+        {
+            "id": 38,
+            "name": "Invigilator 38"
+        },
+        {
+            "id": 39,
+            "name": "Invigilator 39"
+        },
+        {
+            "id": 40,
+            "name": "Invigilator 40"
+        },
+        {
+            "id": 41,
+            "name": "Invigilator 41"
+        },
+        {
+            "id": 42,
+            "name": "Invigilator 42"
+        },
+        {
+            "id": 43,
+            "name": "Invigilator 43"
+        },
+        {
+            "id": 44,
+            "name": "Invigilator 44"
+        },
+        {
+            "id": 45,
+            "name": "Invigilator 45"
+        },
+        {
+            "id": 46,
+            "name": "Invigilator 46"
+        },
+        {
+            "id": 47,
+            "name": "Invigilator 47"
+        },
+        {
+            "id": 48,
+            "name": "Invigilator 48"
+        },
+        {
+            "id": 49,
+            "name": "Invigilator 49"
+        },
+        {
+            "id": 50,
+            "name": "Invigilator 50"
+        }
+    ],
+    "courses": [
+        {
+            "course_code": "SOF10001",
+            "course_name": "Course 1 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 99
+        },
+        {
+            "course_code": "SOF10002",
+            "course_name": "Course 2 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 131
+        },
+        {
+            "course_code": "SOF10003",
+            "course_name": "Course 3 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 45
+        },
+        {
+            "course_code": "SOF10004",
+            "course_name": "Course 4 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 34
+        },
+        {
+            "course_code": "SOF10005",
+            "course_name": "Course 5 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 131
+        },
+        {
+            "course_code": "SOF10006",
+            "course_name": "Course 6 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 47
+        },
+        {
+            "course_code": "SOF10007",
+            "course_name": "Course 7 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 150
+        },
+        {
+            "course_code": "SOF10008",
+            "course_name": "Course 8 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 82
+        },
+        {
+            "course_code": "SOF10009",
+            "course_name": "Course 9 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 145
+        },
+        {
+            "course_code": "SOF10010",
+            "course_name": "Course 10 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 169
+        },
+        {
+            "course_code": "SOF20001",
+            "course_name": "Course 1 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 161
+        },
+        {
+            "course_code": "SOF20002",
+            "course_name": "Course 2 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 98
+        },
+        {
+            "course_code": "SOF20003",
+            "course_name": "Course 3 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 96
+        },
+        {
+            "course_code": "SOF20004",
+            "course_name": "Course 4 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 86
+        },
+        {
+            "course_code": "SOF20005",
+            "course_name": "Course 5 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 79
+        },
+        {
+            "course_code": "SOF20006",
+            "course_name": "Course 6 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 95
+        },
+        {
+            "course_code": "SOF20007",
+            "course_name": "Course 7 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 51
+        },
+        {
+            "course_code": "SOF20008",
+            "course_name": "Course 8 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 180
+        },
+        {
+            "course_code": "SOF20009",
+            "course_name": "Course 9 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 42
+        },
+        {
+            "course_code": "SOF20010",
+            "course_name": "Course 10 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 87
+        },
+        {
+            "course_code": "SOF20011",
+            "course_name": "Course 11 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 181
+        },
+        {
+            "course_code": "SOF30001",
+            "course_name": "Course 1 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 68
+        },
+        {
+            "course_code": "SOF30002",
+            "course_name": "Course 2 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 173
+        },
+        {
+            "course_code": "SOF30003",
+            "course_name": "Course 3 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 34
+        },
+        {
+            "course_code": "SOF30004",
+            "course_name": "Course 4 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 32
+        },
+        {
+            "course_code": "SOF30005",
+            "course_name": "Course 5 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 140
+        },
+        {
+            "course_code": "SOF30006",
+            "course_name": "Course 6 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 43
+        },
+        {
+            "course_code": "SOF30007",
+            "course_name": "Course 7 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 195
+        },
+        {
+            "course_code": "SOF40001",
+            "course_name": "Course 1 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 158
+        },
+        {
+            "course_code": "SOF40002",
+            "course_name": "Course 2 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 166
+        },
+        {
+            "course_code": "SOF40003",
+            "course_name": "Course 3 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 120
+        },
+        {
+            "course_code": "SOF40004",
+            "course_name": "Course 4 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 156
+        },
+        {
+            "course_code": "SOF40005",
+            "course_name": "Course 5 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 182
+        },
+        {
+            "course_code": "COM10001",
+            "course_name": "Course 1 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 167
+        },
+        {
+            "course_code": "COM10002",
+            "course_name": "Course 2 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 109
+        },
+        {
+            "course_code": "COM10003",
+            "course_name": "Course 3 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 98
+        },
+        {
+            "course_code": "COM10004",
+            "course_name": "Course 4 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 164
+        },
+        {
+            "course_code": "COM10005",
+            "course_name": "Course 5 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 60
+        },
+        {
+            "course_code": "COM10006",
+            "course_name": "Course 6 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 173
+        },
+        {
+            "course_code": "COM10007",
+            "course_name": "Course 7 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 32
+        },
+        {
+            "course_code": "COM10008",
+            "course_name": "Course 8 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 140
+        },
+        {
+            "course_code": "COM10009",
+            "course_name": "Course 9 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 146
+        },
+        {
+            "course_code": "COM10010",
+            "course_name": "Course 10 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 142
+        },
+        {
+            "course_code": "COM20001",
+            "course_name": "Course 1 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 97
+        },
+        {
+            "course_code": "COM20002",
+            "course_name": "Course 2 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 126
+        },
+        {
+            "course_code": "COM20003",
+            "course_name": "Course 3 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 72
+        },
+        {
+            "course_code": "COM20004",
+            "course_name": "Course 4 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 33
+        },
+        {
+            "course_code": "COM20005",
+            "course_name": "Course 5 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 56
+        },
+        {
+            "course_code": "COM20006",
+            "course_name": "Course 6 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 178
+        },
+        {
+            "course_code": "COM20007",
+            "course_name": "Course 7 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 76
+        },
+        {
+            "course_code": "COM20008",
+            "course_name": "Course 8 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 173
+        },
+        {
+            "course_code": "COM20009",
+            "course_name": "Course 9 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 137
+        },
+        {
+            "course_code": "COM20010",
+            "course_name": "Course 10 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 39
+        },
+        {
+            "course_code": "COM20011",
+            "course_name": "Course 11 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 195
+        },
+        {
+            "course_code": "COM30001",
+            "course_name": "Course 1 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 128
+        },
+        {
+            "course_code": "COM30002",
+            "course_name": "Course 2 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 55
+        },
+        {
+            "course_code": "COM30003",
+            "course_name": "Course 3 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 30
+        },
+        {
+            "course_code": "COM30004",
+            "course_name": "Course 4 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 64
+        },
+        {
+            "course_code": "COM30005",
+            "course_name": "Course 5 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 196
+        },
+        {
+            "course_code": "COM30006",
+            "course_name": "Course 6 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 135
+        },
+        {
+            "course_code": "COM30007",
+            "course_name": "Course 7 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 122
+        },
+        {
+            "course_code": "COM30008",
+            "course_name": "Course 8 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 198
+        },
+        {
+            "course_code": "COM40001",
+            "course_name": "Course 1 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 121
+        },
+        {
+            "course_code": "COM40002",
+            "course_name": "Course 2 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 67
+        },
+        {
+            "course_code": "COM40003",
+            "course_name": "Course 3 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 31
+        },
+        {
+            "course_code": "COM40004",
+            "course_name": "Course 4 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 56
+        },
+        {
+            "course_code": "CYB10001",
+            "course_name": "Course 1 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 83
+        },
+        {
+            "course_code": "CYB10002",
+            "course_name": "Course 2 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 154
+        },
+        {
+            "course_code": "CYB10003",
+            "course_name": "Course 3 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 185
+        },
+        {
+            "course_code": "CYB10004",
+            "course_name": "Course 4 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 153
+        },
+        {
+            "course_code": "CYB10005",
+            "course_name": "Course 5 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 185
+        },
+        {
+            "course_code": "CYB10006",
+            "course_name": "Course 6 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 89
+        },
+        {
+            "course_code": "CYB10007",
+            "course_name": "Course 7 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 146
+        },
+        {
+            "course_code": "CYB10008",
+            "course_name": "Course 8 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 70
+        },
+        {
+            "course_code": "CYB10009",
+            "course_name": "Course 9 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 99
+        },
+        {
+            "course_code": "CYB10010",
+            "course_name": "Course 10 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 170
+        },
+        {
+            "course_code": "CYB10011",
+            "course_name": "Course 11 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 102
+        },
+        {
+            "course_code": "CYB20001",
+            "course_name": "Course 1 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 46
+        },
+        {
+            "course_code": "CYB20002",
+            "course_name": "Course 2 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 194
+        },
+        {
+            "course_code": "CYB20003",
+            "course_name": "Course 3 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 75
+        },
+        {
+            "course_code": "CYB20004",
+            "course_name": "Course 4 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 179
+        },
+        {
+            "course_code": "CYB20005",
+            "course_name": "Course 5 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 73
+        },
+        {
+            "course_code": "CYB20006",
+            "course_name": "Course 6 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 178
+        },
+        {
+            "course_code": "CYB20007",
+            "course_name": "Course 7 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 32
+        },
+        {
+            "course_code": "CYB20008",
+            "course_name": "Course 8 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 129
+        },
+        {
+            "course_code": "CYB20009",
+            "course_name": "Course 9 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 48
+        },
+        {
+            "course_code": "CYB20010",
+            "course_name": "Course 10 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 183
+        },
+        {
+            "course_code": "CYB20011",
+            "course_name": "Course 11 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 141
+        },
+        {
+            "course_code": "CYB20012",
+            "course_name": "Course 12 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 113
+        },
+        {
+            "course_code": "CYB20013",
+            "course_name": "Course 13 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 121
+        },
+        {
+            "course_code": "CYB20014",
+            "course_name": "Course 14 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 74
+        },
+        {
+            "course_code": "CYB30001",
+            "course_name": "Course 1 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 63
+        },
+        {
+            "course_code": "CYB30002",
+            "course_name": "Course 2 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 106
+        },
+        {
+            "course_code": "CYB30003",
+            "course_name": "Course 3 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 116
+        },
+        {
+            "course_code": "CYB30004",
+            "course_name": "Course 4 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 91
+        },
+        {
+            "course_code": "CYB30005",
+            "course_name": "Course 5 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 180
+        },
+        {
+            "course_code": "CYB30006",
+            "course_name": "Course 6 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 30
+        },
+        {
+            "course_code": "CYB30007",
+            "course_name": "Course 7 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 92
+        },
+        {
+            "course_code": "CYB40001",
+            "course_name": "Course 1 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 40
+        },
+        {
+            "course_code": "CYB40002",
+            "course_name": "Course 2 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 69
+        },
+        {
+            "course_code": "CYB40003",
+            "course_name": "Course 3 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 196
+        },
+        {
+            "course_code": "CYB40004",
+            "course_name": "Course 4 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 177
+        },
+        {
+            "course_code": "BIO10001",
+            "course_name": "Course 1 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 139
+        },
+        {
+            "course_code": "BIO10002",
+            "course_name": "Course 2 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 117
+        },
+        {
+            "course_code": "BIO10003",
+            "course_name": "Course 3 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 41
+        },
+        {
+            "course_code": "BIO10004",
+            "course_name": "Course 4 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 38
+        },
+        {
+            "course_code": "BIO10005",
+            "course_name": "Course 5 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 108
+        },
+        {
+            "course_code": "BIO10006",
+            "course_name": "Course 6 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 162
+        },
+        {
+            "course_code": "BIO10007",
+            "course_name": "Course 7 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 123
+        },
+        {
+            "course_code": "BIO10008",
+            "course_name": "Course 8 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 88
+        },
+        {
+            "course_code": "BIO10009",
+            "course_name": "Course 9 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 180
+        },
+        {
+            "course_code": "BIO10010",
+            "course_name": "Course 10 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 103
+        },
+        {
+            "course_code": "BIO10011",
+            "course_name": "Course 11 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 162
+        },
+        {
+            "course_code": "BIO20001",
+            "course_name": "Course 1 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 41
+        },
+        {
+            "course_code": "BIO20002",
+            "course_name": "Course 2 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 115
+        },
+        {
+            "course_code": "BIO20003",
+            "course_name": "Course 3 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 86
+        },
+        {
+            "course_code": "BIO20004",
+            "course_name": "Course 4 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 161
+        },
+        {
+            "course_code": "BIO20005",
+            "course_name": "Course 5 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 67
+        },
+        {
+            "course_code": "BIO20006",
+            "course_name": "Course 6 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 66
+        },
+        {
+            "course_code": "BIO20007",
+            "course_name": "Course 7 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 190
+        },
+        {
+            "course_code": "BIO20008",
+            "course_name": "Course 8 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 110
+        },
+        {
+            "course_code": "BIO20009",
+            "course_name": "Course 9 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 184
+        },
+        {
+            "course_code": "BIO20010",
+            "course_name": "Course 10 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 90
+        },
+        {
+            "course_code": "BIO20011",
+            "course_name": "Course 11 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 183
+        },
+        {
+            "course_code": "BIO20012",
+            "course_name": "Course 12 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 33
+        },
+        {
+            "course_code": "BIO20013",
+            "course_name": "Course 13 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 189
+        },
+        {
+            "course_code": "BIO20014",
+            "course_name": "Course 14 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 137
+        },
+        {
+            "course_code": "BIO30001",
+            "course_name": "Course 1 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 166
+        },
+        {
+            "course_code": "BIO30002",
+            "course_name": "Course 2 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 50
+        },
+        {
+            "course_code": "BIO30003",
+            "course_name": "Course 3 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 193
+        },
+        {
+            "course_code": "BIO30004",
+            "course_name": "Course 4 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 141
+        },
+        {
+            "course_code": "BIO30005",
+            "course_name": "Course 5 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 63
+        },
+        {
+            "course_code": "BIO30006",
+            "course_name": "Course 6 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 177
+        },
+        {
+            "course_code": "BIO30007",
+            "course_name": "Course 7 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 37
+        },
+        {
+            "course_code": "BIO30008",
+            "course_name": "Course 8 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 89
+        },
+        {
+            "course_code": "BIO30009",
+            "course_name": "Course 9 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 72
+        },
+        {
+            "course_code": "BIO40001",
+            "course_name": "Course 1 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 80
+        },
+        {
+            "course_code": "BIO40002",
+            "course_name": "Course 2 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 128
+        },
+        {
+            "course_code": "BIO40003",
+            "course_name": "Course 3 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 62
+        },
+        {
+            "course_code": "BIO40004",
+            "course_name": "Course 4 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 116
+        },
+        {
+            "course_code": "MIC10001",
+            "course_name": "Course 1 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 41
+        },
+        {
+            "course_code": "MIC10002",
+            "course_name": "Course 2 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 184
+        },
+        {
+            "course_code": "MIC10003",
+            "course_name": "Course 3 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 56
+        },
+        {
+            "course_code": "MIC10004",
+            "course_name": "Course 4 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 181
+        },
+        {
+            "course_code": "MIC10005",
+            "course_name": "Course 5 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 181
+        },
+        {
+            "course_code": "MIC10006",
+            "course_name": "Course 6 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 158
+        },
+        {
+            "course_code": "MIC10007",
+            "course_name": "Course 7 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 62
+        },
+        {
+            "course_code": "MIC10008",
+            "course_name": "Course 8 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 49
+        },
+        {
+            "course_code": "MIC10009",
+            "course_name": "Course 9 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 81
+        },
+        {
+            "course_code": "MIC10010",
+            "course_name": "Course 10 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 104
+        },
+        {
+            "course_code": "MIC10011",
+            "course_name": "Course 11 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 199
+        },
+        {
+            "course_code": "MIC10012",
+            "course_name": "Course 12 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 139
+        },
+        {
+            "course_code": "MIC20001",
+            "course_name": "Course 1 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 52
+        },
+        {
+            "course_code": "MIC20002",
+            "course_name": "Course 2 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 63
+        },
+        {
+            "course_code": "MIC20003",
+            "course_name": "Course 3 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 132
+        },
+        {
+            "course_code": "MIC20004",
+            "course_name": "Course 4 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 62
+        },
+        {
+            "course_code": "MIC20005",
+            "course_name": "Course 5 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 180
+        },
+        {
+            "course_code": "MIC20006",
+            "course_name": "Course 6 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 64
+        },
+        {
+            "course_code": "MIC20007",
+            "course_name": "Course 7 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 73
+        },
+        {
+            "course_code": "MIC20008",
+            "course_name": "Course 8 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 153
+        },
+        {
+            "course_code": "MIC20009",
+            "course_name": "Course 9 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 33
+        },
+        {
+            "course_code": "MIC20010",
+            "course_name": "Course 10 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 69
+        },
+        {
+            "course_code": "MIC20011",
+            "course_name": "Course 11 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 120
+        },
+        {
+            "course_code": "MIC30001",
+            "course_name": "Course 1 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 88
+        },
+        {
+            "course_code": "MIC30002",
+            "course_name": "Course 2 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 172
+        },
+        {
+            "course_code": "MIC30003",
+            "course_name": "Course 3 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 145
+        },
+        {
+            "course_code": "MIC30004",
+            "course_name": "Course 4 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 188
+        },
+        {
+            "course_code": "MIC30005",
+            "course_name": "Course 5 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 36
+        },
+        {
+            "course_code": "MIC30006",
+            "course_name": "Course 6 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 129
+        },
+        {
+            "course_code": "MIC30007",
+            "course_name": "Course 7 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 151
+        },
+        {
+            "course_code": "MIC30008",
+            "course_name": "Course 8 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 60
+        },
+        {
+            "course_code": "MIC40001",
+            "course_name": "Course 1 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 55
+        },
+        {
+            "course_code": "MIC40002",
+            "course_name": "Course 2 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 189
+        },
+        {
+            "course_code": "MIC40003",
+            "course_name": "Course 3 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 112
+        },
+        {
+            "course_code": "MIC40004",
+            "course_name": "Course 4 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 138
+        },
+        {
+            "course_code": "SCI10001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 139
+        },
+        {
+            "course_code": "SCI10002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 85
+        },
+        {
+            "course_code": "SCI10003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 49
+        },
+        {
+            "course_code": "SCI10004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 130
+        },
+        {
+            "course_code": "SCI10005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 170
+        },
+        {
+            "course_code": "SCI10006",
+            "course_name": "Course 6 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 69
+        },
+        {
+            "course_code": "SCI10007",
+            "course_name": "Course 7 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 107
+        },
+        {
+            "course_code": "SCI10008",
+            "course_name": "Course 8 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 127
+        },
+        {
+            "course_code": "SCI10009",
+            "course_name": "Course 9 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 142
+        },
+        {
+            "course_code": "SCI10010",
+            "course_name": "Course 10 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 152
+        },
+        {
+            "course_code": "SCI10011",
+            "course_name": "Course 11 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 30
+        },
+        {
+            "course_code": "SCI20001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 125
+        },
+        {
+            "course_code": "SCI20002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 147
+        },
+        {
+            "course_code": "SCI20003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 51
+        },
+        {
+            "course_code": "SCI20004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 183
+        },
+        {
+            "course_code": "SCI20005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 95
+        },
+        {
+            "course_code": "SCI20006",
+            "course_name": "Course 6 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 68
+        },
+        {
+            "course_code": "SCI20007",
+            "course_name": "Course 7 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 103
+        },
+        {
+            "course_code": "SCI20008",
+            "course_name": "Course 8 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 197
+        },
+        {
+            "course_code": "SCI20009",
+            "course_name": "Course 9 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 136
+        },
+        {
+            "course_code": "SCI20010",
+            "course_name": "Course 10 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 179
+        },
+        {
+            "course_code": "SCI20011",
+            "course_name": "Course 11 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 116
+        },
+        {
+            "course_code": "SCI20012",
+            "course_name": "Course 12 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 46
+        },
+        {
+            "course_code": "SCI20013",
+            "course_name": "Course 13 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 39
+        },
+        {
+            "course_code": "SCI20014",
+            "course_name": "Course 14 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 30
+        },
+        {
+            "course_code": "SCI30001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 161
+        },
+        {
+            "course_code": "SCI30002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 129
+        },
+        {
+            "course_code": "SCI30003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 30
+        },
+        {
+            "course_code": "SCI30004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 122
+        },
+        {
+            "course_code": "SCI30005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 85
+        },
+        {
+            "course_code": "SCI30006",
+            "course_name": "Course 6 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 48
+        },
+        {
+            "course_code": "SCI30007",
+            "course_name": "Course 7 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 181
+        },
+        {
+            "course_code": "SCI30008",
+            "course_name": "Course 8 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 189
+        },
+        {
+            "course_code": "SCI40001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 122
+        },
+        {
+            "course_code": "SCI40002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 91
+        },
+        {
+            "course_code": "SCI40003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 115
+        },
+        {
+            "course_code": "SCI40004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 167
+        },
+        {
+            "course_code": "SCI40005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 133
+        },
+        {
+            "course_code": "MAT10001",
+            "course_name": "Course 1 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 124
+        },
+        {
+            "course_code": "MAT10002",
+            "course_name": "Course 2 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 151
+        },
+        {
+            "course_code": "MAT10003",
+            "course_name": "Course 3 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 110
+        },
+        {
+            "course_code": "MAT10004",
+            "course_name": "Course 4 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 98
+        },
+        {
+            "course_code": "MAT10005",
+            "course_name": "Course 5 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 182
+        },
+        {
+            "course_code": "MAT10006",
+            "course_name": "Course 6 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 79
+        },
+        {
+            "course_code": "MAT10007",
+            "course_name": "Course 7 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 196
+        },
+        {
+            "course_code": "MAT10008",
+            "course_name": "Course 8 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 157
+        },
+        {
+            "course_code": "MAT10009",
+            "course_name": "Course 9 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 130
+        },
+        {
+            "course_code": "MAT10010",
+            "course_name": "Course 10 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 137
+        },
+        {
+            "course_code": "MAT10011",
+            "course_name": "Course 11 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 103
+        },
+        {
+            "course_code": "MAT10012",
+            "course_name": "Course 12 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 155
+        },
+        {
+            "course_code": "MAT10013",
+            "course_name": "Course 13 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 101
+        },
+        {
+            "course_code": "MAT20001",
+            "course_name": "Course 1 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 179
+        },
+        {
+            "course_code": "MAT20002",
+            "course_name": "Course 2 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 123
+        },
+        {
+            "course_code": "MAT20003",
+            "course_name": "Course 3 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 192
+        },
+        {
+            "course_code": "MAT20004",
+            "course_name": "Course 4 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 62
+        },
+        {
+            "course_code": "MAT20005",
+            "course_name": "Course 5 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 111
+        },
+        {
+            "course_code": "MAT20006",
+            "course_name": "Course 6 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 142
+        },
+        {
+            "course_code": "MAT20007",
+            "course_name": "Course 7 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 127
+        },
+        {
+            "course_code": "MAT20008",
+            "course_name": "Course 8 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 156
+        },
+        {
+            "course_code": "MAT20009",
+            "course_name": "Course 9 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 182
+        },
+        {
+            "course_code": "MAT20010",
+            "course_name": "Course 10 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 88
+        },
+        {
+            "course_code": "MAT20011",
+            "course_name": "Course 11 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 159
+        },
+        {
+            "course_code": "MAT20012",
+            "course_name": "Course 12 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 36
+        },
+        {
+            "course_code": "MAT20013",
+            "course_name": "Course 13 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 121
+        },
+        {
+            "course_code": "MAT30001",
+            "course_name": "Course 1 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 167
+        },
+        {
+            "course_code": "MAT30002",
+            "course_name": "Course 2 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 124
+        },
+        {
+            "course_code": "MAT30003",
+            "course_name": "Course 3 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 107
+        },
+        {
+            "course_code": "MAT30004",
+            "course_name": "Course 4 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 68
+        },
+        {
+            "course_code": "MAT30005",
+            "course_name": "Course 5 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 35
+        },
+        {
+            "course_code": "MAT30006",
+            "course_name": "Course 6 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 188
+        },
+        {
+            "course_code": "MAT30007",
+            "course_name": "Course 7 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 34
+        },
+        {
+            "course_code": "MAT30008",
+            "course_name": "Course 8 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 75
+        },
+        {
+            "course_code": "MAT30009",
+            "course_name": "Course 9 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 64
+        },
+        {
+            "course_code": "MAT30010",
+            "course_name": "Course 10 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 191
+        },
+        {
+            "course_code": "MAT40001",
+            "course_name": "Course 1 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 101
+        },
+        {
+            "course_code": "MAT40002",
+            "course_name": "Course 2 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 42
+        },
+        {
+            "course_code": "MAT40003",
+            "course_name": "Course 3 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 183
+        },
+        {
+            "course_code": "MAT40004",
+            "course_name": "Course 4 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 49
+        },
+        {
+            "course_code": "MAT40005",
+            "course_name": "Course 5 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 183
+        },
+        {
+            "course_code": "PHY10001",
+            "course_name": "Course 1 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 56
+        },
+        {
+            "course_code": "PHY10002",
+            "course_name": "Course 2 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 183
+        },
+        {
+            "course_code": "PHY10003",
+            "course_name": "Course 3 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 168
+        },
+        {
+            "course_code": "PHY10004",
+            "course_name": "Course 4 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 104
+        },
+        {
+            "course_code": "PHY10005",
+            "course_name": "Course 5 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 41
+        },
+        {
+            "course_code": "PHY10006",
+            "course_name": "Course 6 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 99
+        },
+        {
+            "course_code": "PHY10007",
+            "course_name": "Course 7 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 98
+        },
+        {
+            "course_code": "PHY10008",
+            "course_name": "Course 8 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 166
+        },
+        {
+            "course_code": "PHY10009",
+            "course_name": "Course 9 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 130
+        },
+        {
+            "course_code": "PHY10010",
+            "course_name": "Course 10 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 191
+        },
+        {
+            "course_code": "PHY10011",
+            "course_name": "Course 11 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 123
+        },
+        {
+            "course_code": "PHY20001",
+            "course_name": "Course 1 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 164
+        },
+        {
+            "course_code": "PHY20002",
+            "course_name": "Course 2 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 137
+        },
+        {
+            "course_code": "PHY20003",
+            "course_name": "Course 3 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 89
+        },
+        {
+            "course_code": "PHY20004",
+            "course_name": "Course 4 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 47
+        },
+        {
+            "course_code": "PHY20005",
+            "course_name": "Course 5 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 150
+        },
+        {
+            "course_code": "PHY20006",
+            "course_name": "Course 6 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 54
+        },
+        {
+            "course_code": "PHY20007",
+            "course_name": "Course 7 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 121
+        },
+        {
+            "course_code": "PHY20008",
+            "course_name": "Course 8 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 45
+        },
+        {
+            "course_code": "PHY20009",
+            "course_name": "Course 9 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 34
+        },
+        {
+            "course_code": "PHY20010",
+            "course_name": "Course 10 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 188
+        },
+        {
+            "course_code": "PHY20011",
+            "course_name": "Course 11 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 71
+        },
+        {
+            "course_code": "PHY20012",
+            "course_name": "Course 12 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 67
+        },
+        {
+            "course_code": "PHY20013",
+            "course_name": "Course 13 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 43
+        },
+        {
+            "course_code": "PHY30001",
+            "course_name": "Course 1 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 45
+        },
+        {
+            "course_code": "PHY30002",
+            "course_name": "Course 2 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 97
+        },
+        {
+            "course_code": "PHY30003",
+            "course_name": "Course 3 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 137
+        },
+        {
+            "course_code": "PHY30004",
+            "course_name": "Course 4 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 102
+        },
+        {
+            "course_code": "PHY30005",
+            "course_name": "Course 5 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 101
+        },
+        {
+            "course_code": "PHY30006",
+            "course_name": "Course 6 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 42
+        },
+        {
+            "course_code": "PHY30007",
+            "course_name": "Course 7 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 64
+        },
+        {
+            "course_code": "PHY30008",
+            "course_name": "Course 8 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 126
+        },
+        {
+            "course_code": "PHY30009",
+            "course_name": "Course 9 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 136
+        },
+        {
+            "course_code": "PHY30010",
+            "course_name": "Course 10 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 112
+        },
+        {
+            "course_code": "PHY40001",
+            "course_name": "Course 1 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 194
+        },
+        {
+            "course_code": "PHY40002",
+            "course_name": "Course 2 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 146
+        },
+        {
+            "course_code": "PHY40003",
+            "course_name": "Course 3 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 110
+        },
+        {
+            "course_code": "PHY40004",
+            "course_name": "Course 4 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 50
+        },
+        {
+            "course_code": "PHY40005",
+            "course_name": "Course 5 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 91
+        },
+        {
+            "course_code": "PHY40006",
+            "course_name": "Course 6 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 180
+        },
+        {
+            "course_code": "ECO10001",
+            "course_name": "Course 1 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 46
+        },
+        {
+            "course_code": "ECO10002",
+            "course_name": "Course 2 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 178
+        },
+        {
+            "course_code": "ECO10003",
+            "course_name": "Course 3 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 180
+        },
+        {
+            "course_code": "ECO10004",
+            "course_name": "Course 4 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 179
+        },
+        {
+            "course_code": "ECO10005",
+            "course_name": "Course 5 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 192
+        },
+        {
+            "course_code": "ECO10006",
+            "course_name": "Course 6 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 88
+        },
+        {
+            "course_code": "ECO10007",
+            "course_name": "Course 7 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 129
+        },
+        {
+            "course_code": "ECO10008",
+            "course_name": "Course 8 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 80
+        },
+        {
+            "course_code": "ECO10009",
+            "course_name": "Course 9 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 195
+        },
+        {
+            "course_code": "ECO10010",
+            "course_name": "Course 10 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 164
+        },
+        {
+            "course_code": "ECO10011",
+            "course_name": "Course 11 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 47
+        },
+        {
+            "course_code": "ECO10012",
+            "course_name": "Course 12 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 110
+        },
+        {
+            "course_code": "ECO10013",
+            "course_name": "Course 13 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 194
+        },
+        {
+            "course_code": "ECO10014",
+            "course_name": "Course 14 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 146
+        },
+        {
+            "course_code": "ECO20001",
+            "course_name": "Course 1 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 47
+        },
+        {
+            "course_code": "ECO20002",
+            "course_name": "Course 2 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 163
+        },
+        {
+            "course_code": "ECO20003",
+            "course_name": "Course 3 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 75
+        },
+        {
+            "course_code": "ECO20004",
+            "course_name": "Course 4 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 43
+        },
+        {
+            "course_code": "ECO20005",
+            "course_name": "Course 5 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 51
+        },
+        {
+            "course_code": "ECO20006",
+            "course_name": "Course 6 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 124
+        },
+        {
+            "course_code": "ECO20007",
+            "course_name": "Course 7 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 174
+        },
+        {
+            "course_code": "ECO20008",
+            "course_name": "Course 8 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 40
+        },
+        {
+            "course_code": "ECO20009",
+            "course_name": "Course 9 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 180
+        },
+        {
+            "course_code": "ECO20010",
+            "course_name": "Course 10 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 128
+        },
+        {
+            "course_code": "ECO20011",
+            "course_name": "Course 11 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 82
+        },
+        {
+            "course_code": "ECO20012",
+            "course_name": "Course 12 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 175
+        },
+        {
+            "course_code": "ECO30001",
+            "course_name": "Course 1 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 64
+        },
+        {
+            "course_code": "ECO30002",
+            "course_name": "Course 2 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 119
+        },
+        {
+            "course_code": "ECO30003",
+            "course_name": "Course 3 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 147
+        },
+        {
+            "course_code": "ECO30004",
+            "course_name": "Course 4 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 69
+        },
+        {
+            "course_code": "ECO30005",
+            "course_name": "Course 5 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 77
+        },
+        {
+            "course_code": "ECO30006",
+            "course_name": "Course 6 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 68
+        },
+        {
+            "course_code": "ECO30007",
+            "course_name": "Course 7 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 129
+        },
+        {
+            "course_code": "ECO30008",
+            "course_name": "Course 8 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 154
+        },
+        {
+            "course_code": "ECO40001",
+            "course_name": "Course 1 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 113
+        },
+        {
+            "course_code": "ECO40002",
+            "course_name": "Course 2 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 142
+        },
+        {
+            "course_code": "ECO40003",
+            "course_name": "Course 3 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 91
+        },
+        {
+            "course_code": "ECO40004",
+            "course_name": "Course 4 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 189
+        },
+        {
+            "course_code": "ECO40005",
+            "course_name": "Course 5 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 164
+        },
+        {
+            "course_code": "ACC10001",
+            "course_name": "Course 1 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 108
+        },
+        {
+            "course_code": "ACC10002",
+            "course_name": "Course 2 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 176
+        },
+        {
+            "course_code": "ACC10003",
+            "course_name": "Course 3 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 85
+        },
+        {
+            "course_code": "ACC10004",
+            "course_name": "Course 4 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 80
+        },
+        {
+            "course_code": "ACC10005",
+            "course_name": "Course 5 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 77
+        },
+        {
+            "course_code": "ACC10006",
+            "course_name": "Course 6 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 165
+        },
+        {
+            "course_code": "ACC10007",
+            "course_name": "Course 7 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 142
+        },
+        {
+            "course_code": "ACC10008",
+            "course_name": "Course 8 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 80
+        },
+        {
+            "course_code": "ACC10009",
+            "course_name": "Course 9 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 129
+        },
+        {
+            "course_code": "ACC10010",
+            "course_name": "Course 10 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 119
+        },
+        {
+            "course_code": "ACC10011",
+            "course_name": "Course 11 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 83
+        },
+        {
+            "course_code": "ACC20001",
+            "course_name": "Course 1 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 84
+        },
+        {
+            "course_code": "ACC20002",
+            "course_name": "Course 2 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 64
+        },
+        {
+            "course_code": "ACC20003",
+            "course_name": "Course 3 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 163
+        },
+        {
+            "course_code": "ACC20004",
+            "course_name": "Course 4 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 64
+        },
+        {
+            "course_code": "ACC20005",
+            "course_name": "Course 5 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 118
+        },
+        {
+            "course_code": "ACC20006",
+            "course_name": "Course 6 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 54
+        },
+        {
+            "course_code": "ACC20007",
+            "course_name": "Course 7 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 94
+        },
+        {
+            "course_code": "ACC20008",
+            "course_name": "Course 8 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 171
+        },
+        {
+            "course_code": "ACC20009",
+            "course_name": "Course 9 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 81
+        },
+        {
+            "course_code": "ACC20010",
+            "course_name": "Course 10 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 139
+        },
+        {
+            "course_code": "ACC20011",
+            "course_name": "Course 11 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 82
+        },
+        {
+            "course_code": "ACC20012",
+            "course_name": "Course 12 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 87
+        },
+        {
+            "course_code": "ACC30001",
+            "course_name": "Course 1 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 70
+        },
+        {
+            "course_code": "ACC30002",
+            "course_name": "Course 2 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 118
+        },
+        {
+            "course_code": "ACC30003",
+            "course_name": "Course 3 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 82
+        },
+        {
+            "course_code": "ACC30004",
+            "course_name": "Course 4 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 153
+        },
+        {
+            "course_code": "ACC30005",
+            "course_name": "Course 5 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 114
+        },
+        {
+            "course_code": "ACC30006",
+            "course_name": "Course 6 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 184
+        },
+        {
+            "course_code": "ACC30007",
+            "course_name": "Course 7 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 71
+        },
+        {
+            "course_code": "ACC30008",
+            "course_name": "Course 8 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 128
+        },
+        {
+            "course_code": "ACC30009",
+            "course_name": "Course 9 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 46
+        },
+        {
+            "course_code": "ACC40001",
+            "course_name": "Course 1 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 39
+        },
+        {
+            "course_code": "ACC40002",
+            "course_name": "Course 2 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 185
+        },
+        {
+            "course_code": "ACC40003",
+            "course_name": "Course 3 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 136
+        },
+        {
+            "course_code": "ACC40004",
+            "course_name": "Course 4 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 149
+        },
+        {
+            "course_code": "Math101",
+            "course_name": "Basic Mathematics",
+            "level": 100,
+            "department_ids": [
+                1,
+                2,
+                3
+            ],
+            "students": 301
+        },
+        {
+            "course_code": "Math102",
+            "course_name": "Advanced Mathematics",
+            "level": 200,
+            "department_ids": [
+                4,
+                5,
+                6
+            ],
+            "students": 346
+        },
+        {
+            "course_code": "GSP101",
+            "course_name": "General Studies: Communication Skills",
+            "level": 100,
+            "department_ids": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "students": 451
+        }
+    ]
+}

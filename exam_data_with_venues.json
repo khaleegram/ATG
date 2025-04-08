@@ -1,0 +1,3746 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Software Engineering",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 2,
+            "name": "Computer Science",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 3,
+            "name": "Cybersecurity",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 4,
+            "name": "Biology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 5,
+            "name": "Microbiology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 6,
+            "name": "Science Laboratory Technology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 7,
+            "name": "Mathematics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 8,
+            "name": "Physics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 9,
+            "name": "Economics",
+            "college": "Social Sciences"
+        },
+        {
+            "id": 10,
+            "name": "Accounting",
+            "college": "Social Sciences"
+        }
+    ],
+    "venues": [
+        {
+            "id": 1,
+            "name": "Venue 1",
+            "capacity": 50
+        },
+        {
+            "id": 2,
+            "name": "Venue 2",
+            "capacity": 60
+        },
+        {
+            "id": 3,
+            "name": "Venue 3",
+            "capacity": 70
+        },
+        {
+            "id": 4,
+            "name": "Venue 4",
+            "capacity": 80
+        },
+        {
+            "id": 5,
+            "name": "Venue 5",
+            "capacity": 90
+        },
+        {
+            "id": 6,
+            "name": "Venue 6",
+            "capacity": 100
+        },
+        {
+            "id": 7,
+            "name": "Venue 7",
+            "capacity": 110
+        },
+        {
+            "id": 8,
+            "name": "Venue 8",
+            "capacity": 120
+        },
+        {
+            "id": 9,
+            "name": "Venue 9",
+            "capacity": 130
+        },
+        {
+            "id": 10,
+            "name": "Venue 10",
+            "capacity": 140
+        },
+        {
+            "id": 11,
+            "name": "Venue 11",
+            "capacity": 150
+        },
+        {
+            "id": 12,
+            "name": "Venue 12",
+            "capacity": 160
+        },
+        {
+            "id": 13,
+            "name": "Venue 13",
+            "capacity": 170
+        },
+        {
+            "id": 14,
+            "name": "Venue 14",
+            "capacity": 180
+        },
+        {
+            "id": 15,
+            "name": "Venue 15",
+            "capacity": 190
+        },
+        {
+            "id": 16,
+            "name": "Venue 16",
+            "capacity": 200
+        },
+        {
+            "id": 17,
+            "name": "Venue 17",
+            "capacity": 210
+        },
+        {
+            "id": 18,
+            "name": "Venue 18",
+            "capacity": 220
+        },
+        {
+            "id": 19,
+            "name": "Venue 19",
+            "capacity": 230
+        },
+        {
+            "id": 20,
+            "name": "Venue 20",
+            "capacity": 240
+        },
+        {
+            "id": 21,
+            "name": "Venue 21",
+            "capacity": 250
+        },
+        {
+            "id": 22,
+            "name": "Venue 22",
+            "capacity": 260
+        },
+        {
+            "id": 23,
+            "name": "Venue 23",
+            "capacity": 270
+        },
+        {
+            "id": 24,
+            "name": "Venue 24",
+            "capacity": 280
+        },
+        {
+            "id": 25,
+            "name": "Venue 25",
+            "capacity": 290
+        },
+        {
+            "id": 26,
+            "name": "Venue 26",
+            "capacity": 300
+        },
+        {
+            "id": 27,
+            "name": "Venue 27",
+            "capacity": 310
+        },
+        {
+            "id": 28,
+            "name": "Venue 28",
+            "capacity": 320
+        },
+        {
+            "id": 29,
+            "name": "Venue 29",
+            "capacity": 330
+        }
+    ],
+    "courses": [
+        {
+            "course_code": "SOF10001",
+            "course_name": "Course 1 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 37,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10002",
+            "course_name": "Course 2 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 62,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10003",
+            "course_name": "Course 3 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 71,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10004",
+            "course_name": "Course 4 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 109,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10005",
+            "course_name": "Course 5 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 117,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10006",
+            "course_name": "Course 6 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 167,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10007",
+            "course_name": "Course 7 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 38,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10008",
+            "course_name": "Course 8 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 46,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10009",
+            "course_name": "Course 9 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 189,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10010",
+            "course_name": "Course 10 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 75,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF10011",
+            "course_name": "Course 11 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 191,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "SOF10012",
+            "course_name": "Course 12 for Software Engineering Level 100",
+            "department_id": 1,
+            "level": 100,
+            "students": 188,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20001",
+            "course_name": "Course 1 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 98,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20002",
+            "course_name": "Course 2 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 173,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20003",
+            "course_name": "Course 3 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 155,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20004",
+            "course_name": "Course 4 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 84,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20005",
+            "course_name": "Course 5 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 105,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20006",
+            "course_name": "Course 6 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 53,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20007",
+            "course_name": "Course 7 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 112,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20008",
+            "course_name": "Course 8 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 46,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20009",
+            "course_name": "Course 9 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 189,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20010",
+            "course_name": "Course 10 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 175,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20011",
+            "course_name": "Course 11 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 31,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF20012",
+            "course_name": "Course 12 for Software Engineering Level 200",
+            "department_id": 1,
+            "level": 200,
+            "students": 114,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF30001",
+            "course_name": "Course 1 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 97,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF30002",
+            "course_name": "Course 2 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 193,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "SOF30003",
+            "course_name": "Course 3 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 196,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "SOF30004",
+            "course_name": "Course 4 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 89,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF30005",
+            "course_name": "Course 5 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 91,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF30006",
+            "course_name": "Course 6 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 128,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF30007",
+            "course_name": "Course 7 for Software Engineering Level 300",
+            "department_id": 1,
+            "level": 300,
+            "students": 138,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF40001",
+            "course_name": "Course 1 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 182,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF40002",
+            "course_name": "Course 2 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 191,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "SOF40003",
+            "course_name": "Course 3 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 117,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF40004",
+            "course_name": "Course 4 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 90,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SOF40005",
+            "course_name": "Course 5 for Software Engineering Level 400",
+            "department_id": 1,
+            "level": 400,
+            "students": 93,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10001",
+            "course_name": "Course 1 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 175,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10002",
+            "course_name": "Course 2 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 130,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10003",
+            "course_name": "Course 3 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 49,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10004",
+            "course_name": "Course 4 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 60,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10005",
+            "course_name": "Course 5 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 133,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10006",
+            "course_name": "Course 6 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 71,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10007",
+            "course_name": "Course 7 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 118,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10008",
+            "course_name": "Course 8 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 174,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10009",
+            "course_name": "Course 9 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 30,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM10010",
+            "course_name": "Course 10 for Computer Science Level 100",
+            "department_id": 2,
+            "level": 100,
+            "students": 166,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20001",
+            "course_name": "Course 1 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 165,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20002",
+            "course_name": "Course 2 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 150,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20003",
+            "course_name": "Course 3 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 99,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20004",
+            "course_name": "Course 4 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 181,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20005",
+            "course_name": "Course 5 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 49,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20006",
+            "course_name": "Course 6 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 165,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20007",
+            "course_name": "Course 7 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 41,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20008",
+            "course_name": "Course 8 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 30,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20009",
+            "course_name": "Course 9 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 45,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM20010",
+            "course_name": "Course 10 for Computer Science Level 200",
+            "department_id": 2,
+            "level": 200,
+            "students": 88,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM30001",
+            "course_name": "Course 1 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 64,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM30002",
+            "course_name": "Course 2 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 112,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM30003",
+            "course_name": "Course 3 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 125,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM30004",
+            "course_name": "Course 4 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 87,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM30005",
+            "course_name": "Course 5 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 125,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM30006",
+            "course_name": "Course 6 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 112,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM30007",
+            "course_name": "Course 7 for Computer Science Level 300",
+            "department_id": 2,
+            "level": 300,
+            "students": 188,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM40001",
+            "course_name": "Course 1 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 168,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM40002",
+            "course_name": "Course 2 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 132,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM40003",
+            "course_name": "Course 3 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 156,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM40004",
+            "course_name": "Course 4 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 148,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM40005",
+            "course_name": "Course 5 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 74,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "COM40006",
+            "course_name": "Course 6 for Computer Science Level 400",
+            "department_id": 2,
+            "level": 400,
+            "students": 33,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10001",
+            "course_name": "Course 1 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 82,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10002",
+            "course_name": "Course 2 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 55,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10003",
+            "course_name": "Course 3 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 84,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10004",
+            "course_name": "Course 4 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 187,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10005",
+            "course_name": "Course 5 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 198,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "CYB10006",
+            "course_name": "Course 6 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 141,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10007",
+            "course_name": "Course 7 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 72,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10008",
+            "course_name": "Course 8 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 182,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10009",
+            "course_name": "Course 9 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 125,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10010",
+            "course_name": "Course 10 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 118,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10011",
+            "course_name": "Course 11 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 117,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10012",
+            "course_name": "Course 12 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 195,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "CYB10013",
+            "course_name": "Course 13 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 151,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB10014",
+            "course_name": "Course 14 for Cybersecurity Level 100",
+            "department_id": 3,
+            "level": 100,
+            "students": 187,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20001",
+            "course_name": "Course 1 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 31,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20002",
+            "course_name": "Course 2 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 103,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20003",
+            "course_name": "Course 3 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 179,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20004",
+            "course_name": "Course 4 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 80,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20005",
+            "course_name": "Course 5 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 53,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20006",
+            "course_name": "Course 6 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 168,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20007",
+            "course_name": "Course 7 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 139,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20008",
+            "course_name": "Course 8 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 100,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20009",
+            "course_name": "Course 9 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 53,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20010",
+            "course_name": "Course 10 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 122,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20011",
+            "course_name": "Course 11 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 74,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20012",
+            "course_name": "Course 12 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 178,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB20013",
+            "course_name": "Course 13 for Cybersecurity Level 200",
+            "department_id": 3,
+            "level": 200,
+            "students": 108,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB30001",
+            "course_name": "Course 1 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 34,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB30002",
+            "course_name": "Course 2 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 67,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB30003",
+            "course_name": "Course 3 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 59,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB30004",
+            "course_name": "Course 4 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 122,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB30005",
+            "course_name": "Course 5 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 127,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB30006",
+            "course_name": "Course 6 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 192,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "CYB30007",
+            "course_name": "Course 7 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 107,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB30008",
+            "course_name": "Course 8 for Cybersecurity Level 300",
+            "department_id": 3,
+            "level": 300,
+            "students": 80,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB40001",
+            "course_name": "Course 1 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 62,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB40002",
+            "course_name": "Course 2 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 89,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB40003",
+            "course_name": "Course 3 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 126,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB40004",
+            "course_name": "Course 4 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 160,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB40005",
+            "course_name": "Course 5 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 107,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "CYB40006",
+            "course_name": "Course 6 for Cybersecurity Level 400",
+            "department_id": 3,
+            "level": 400,
+            "students": 147,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10001",
+            "course_name": "Course 1 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 71,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10002",
+            "course_name": "Course 2 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 40,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10003",
+            "course_name": "Course 3 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 193,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "BIO10004",
+            "course_name": "Course 4 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 137,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10005",
+            "course_name": "Course 5 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 157,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10006",
+            "course_name": "Course 6 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 183,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10007",
+            "course_name": "Course 7 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 189,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10008",
+            "course_name": "Course 8 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 124,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10009",
+            "course_name": "Course 9 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 129,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10010",
+            "course_name": "Course 10 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 127,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10011",
+            "course_name": "Course 11 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 137,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10012",
+            "course_name": "Course 12 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 35,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10013",
+            "course_name": "Course 13 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 125,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO10014",
+            "course_name": "Course 14 for Biology Level 100",
+            "department_id": 4,
+            "level": 100,
+            "students": 106,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20001",
+            "course_name": "Course 1 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 126,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20002",
+            "course_name": "Course 2 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 82,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20003",
+            "course_name": "Course 3 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 132,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20004",
+            "course_name": "Course 4 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 31,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20005",
+            "course_name": "Course 5 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 135,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20006",
+            "course_name": "Course 6 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 63,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20007",
+            "course_name": "Course 7 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 183,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20008",
+            "course_name": "Course 8 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 197,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "BIO20009",
+            "course_name": "Course 9 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 66,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20010",
+            "course_name": "Course 10 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 41,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20011",
+            "course_name": "Course 11 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 105,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20012",
+            "course_name": "Course 12 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 168,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20013",
+            "course_name": "Course 13 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 34,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO20014",
+            "course_name": "Course 14 for Biology Level 200",
+            "department_id": 4,
+            "level": 200,
+            "students": 150,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30001",
+            "course_name": "Course 1 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 190,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30002",
+            "course_name": "Course 2 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 40,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30003",
+            "course_name": "Course 3 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 111,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30004",
+            "course_name": "Course 4 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 174,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30005",
+            "course_name": "Course 5 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 154,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30006",
+            "course_name": "Course 6 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 95,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30007",
+            "course_name": "Course 7 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 198,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "BIO30008",
+            "course_name": "Course 8 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 148,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30009",
+            "course_name": "Course 9 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 177,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO30010",
+            "course_name": "Course 10 for Biology Level 300",
+            "department_id": 4,
+            "level": 300,
+            "students": 30,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO40001",
+            "course_name": "Course 1 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 30,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO40002",
+            "course_name": "Course 2 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 135,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO40003",
+            "course_name": "Course 3 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 100,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "BIO40004",
+            "course_name": "Course 4 for Biology Level 400",
+            "department_id": 4,
+            "level": 400,
+            "students": 68,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10001",
+            "course_name": "Course 1 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 105,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10002",
+            "course_name": "Course 2 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 144,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10003",
+            "course_name": "Course 3 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 70,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10004",
+            "course_name": "Course 4 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 52,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10005",
+            "course_name": "Course 5 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 90,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10006",
+            "course_name": "Course 6 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 129,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10007",
+            "course_name": "Course 7 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 109,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10008",
+            "course_name": "Course 8 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 172,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10009",
+            "course_name": "Course 9 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 141,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10010",
+            "course_name": "Course 10 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 96,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10011",
+            "course_name": "Course 11 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 128,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10012",
+            "course_name": "Course 12 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 67,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10013",
+            "course_name": "Course 13 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 188,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC10014",
+            "course_name": "Course 14 for Microbiology Level 100",
+            "department_id": 5,
+            "level": 100,
+            "students": 132,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20001",
+            "course_name": "Course 1 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 172,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20002",
+            "course_name": "Course 2 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 167,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20003",
+            "course_name": "Course 3 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 35,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20004",
+            "course_name": "Course 4 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 81,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20005",
+            "course_name": "Course 5 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 88,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20006",
+            "course_name": "Course 6 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 131,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20007",
+            "course_name": "Course 7 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 48,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20008",
+            "course_name": "Course 8 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 139,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20009",
+            "course_name": "Course 9 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 191,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "MIC20010",
+            "course_name": "Course 10 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 160,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20011",
+            "course_name": "Course 11 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 147,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20012",
+            "course_name": "Course 12 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 96,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20013",
+            "course_name": "Course 13 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 158,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC20014",
+            "course_name": "Course 14 for Microbiology Level 200",
+            "department_id": 5,
+            "level": 200,
+            "students": 98,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30001",
+            "course_name": "Course 1 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 31,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30002",
+            "course_name": "Course 2 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 84,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30003",
+            "course_name": "Course 3 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 49,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30004",
+            "course_name": "Course 4 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 65,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30005",
+            "course_name": "Course 5 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 146,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30006",
+            "course_name": "Course 6 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 192,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "MIC30007",
+            "course_name": "Course 7 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 61,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30008",
+            "course_name": "Course 8 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 101,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30009",
+            "course_name": "Course 9 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 92,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC30010",
+            "course_name": "Course 10 for Microbiology Level 300",
+            "department_id": 5,
+            "level": 300,
+            "students": 109,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC40001",
+            "course_name": "Course 1 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 70,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC40002",
+            "course_name": "Course 2 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 144,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC40003",
+            "course_name": "Course 3 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 160,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC40004",
+            "course_name": "Course 4 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 83,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC40005",
+            "course_name": "Course 5 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 142,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MIC40006",
+            "course_name": "Course 6 for Microbiology Level 400",
+            "department_id": 5,
+            "level": 400,
+            "students": 194,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "SCI10001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 34,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 63,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 72,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 182,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 119,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10006",
+            "course_name": "Course 6 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 113,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10007",
+            "course_name": "Course 7 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 85,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10008",
+            "course_name": "Course 8 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 140,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10009",
+            "course_name": "Course 9 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 57,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10010",
+            "course_name": "Course 10 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 194,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "SCI10011",
+            "course_name": "Course 11 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 155,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10012",
+            "course_name": "Course 12 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 53,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI10013",
+            "course_name": "Course 13 for Science Laboratory Technology Level 100",
+            "department_id": 6,
+            "level": 100,
+            "students": 78,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 62,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 70,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 51,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 169,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 100,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20006",
+            "course_name": "Course 6 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 189,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20007",
+            "course_name": "Course 7 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 63,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20008",
+            "course_name": "Course 8 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 152,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20009",
+            "course_name": "Course 9 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 47,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20010",
+            "course_name": "Course 10 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 103,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20011",
+            "course_name": "Course 11 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 37,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20012",
+            "course_name": "Course 12 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 106,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20013",
+            "course_name": "Course 13 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 161,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI20014",
+            "course_name": "Course 14 for Science Laboratory Technology Level 200",
+            "department_id": 6,
+            "level": 200,
+            "students": 187,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI30001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 174,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI30002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 169,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI30003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 62,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI30004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 174,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI30005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 53,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI30006",
+            "course_name": "Course 6 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 113,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI30007",
+            "course_name": "Course 7 for Science Laboratory Technology Level 300",
+            "department_id": 6,
+            "level": 300,
+            "students": 138,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI40001",
+            "course_name": "Course 1 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 109,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI40002",
+            "course_name": "Course 2 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 169,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI40003",
+            "course_name": "Course 3 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 173,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI40004",
+            "course_name": "Course 4 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 63,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "SCI40005",
+            "course_name": "Course 5 for Science Laboratory Technology Level 400",
+            "department_id": 6,
+            "level": 400,
+            "students": 151,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10001",
+            "course_name": "Course 1 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 60,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10002",
+            "course_name": "Course 2 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 44,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10003",
+            "course_name": "Course 3 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 46,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10004",
+            "course_name": "Course 4 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 176,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10005",
+            "course_name": "Course 5 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 147,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10006",
+            "course_name": "Course 6 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 146,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10007",
+            "course_name": "Course 7 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 70,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10008",
+            "course_name": "Course 8 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 109,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10009",
+            "course_name": "Course 9 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 73,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10010",
+            "course_name": "Course 10 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 136,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10011",
+            "course_name": "Course 11 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 81,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT10012",
+            "course_name": "Course 12 for Mathematics Level 100",
+            "department_id": 7,
+            "level": 100,
+            "students": 92,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20001",
+            "course_name": "Course 1 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 151,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20002",
+            "course_name": "Course 2 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 111,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20003",
+            "course_name": "Course 3 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 90,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20004",
+            "course_name": "Course 4 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 68,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20005",
+            "course_name": "Course 5 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 170,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20006",
+            "course_name": "Course 6 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 146,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20007",
+            "course_name": "Course 7 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 70,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20008",
+            "course_name": "Course 8 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 89,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20009",
+            "course_name": "Course 9 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 62,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20010",
+            "course_name": "Course 10 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 54,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20011",
+            "course_name": "Course 11 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 75,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT20012",
+            "course_name": "Course 12 for Mathematics Level 200",
+            "department_id": 7,
+            "level": 200,
+            "students": 104,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30001",
+            "course_name": "Course 1 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 50,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30002",
+            "course_name": "Course 2 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 30,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30003",
+            "course_name": "Course 3 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 126,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30004",
+            "course_name": "Course 4 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 54,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30005",
+            "course_name": "Course 5 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 41,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30006",
+            "course_name": "Course 6 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 86,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30007",
+            "course_name": "Course 7 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 120,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30008",
+            "course_name": "Course 8 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 172,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT30009",
+            "course_name": "Course 9 for Mathematics Level 300",
+            "department_id": 7,
+            "level": 300,
+            "students": 178,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT40001",
+            "course_name": "Course 1 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 177,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT40002",
+            "course_name": "Course 2 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 82,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT40003",
+            "course_name": "Course 3 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 58,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT40004",
+            "course_name": "Course 4 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 137,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT40005",
+            "course_name": "Course 5 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 87,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "MAT40006",
+            "course_name": "Course 6 for Mathematics Level 400",
+            "department_id": 7,
+            "level": 400,
+            "students": 34,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10001",
+            "course_name": "Course 1 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 177,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10002",
+            "course_name": "Course 2 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 43,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10003",
+            "course_name": "Course 3 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 185,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10004",
+            "course_name": "Course 4 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 91,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10005",
+            "course_name": "Course 5 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 80,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10006",
+            "course_name": "Course 6 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 63,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10007",
+            "course_name": "Course 7 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 73,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10008",
+            "course_name": "Course 8 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 169,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10009",
+            "course_name": "Course 9 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 81,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10010",
+            "course_name": "Course 10 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 61,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10011",
+            "course_name": "Course 11 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 65,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10012",
+            "course_name": "Course 12 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 180,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10013",
+            "course_name": "Course 13 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 51,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY10014",
+            "course_name": "Course 14 for Physics Level 100",
+            "department_id": 8,
+            "level": 100,
+            "students": 118,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20001",
+            "course_name": "Course 1 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 157,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20002",
+            "course_name": "Course 2 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 105,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20003",
+            "course_name": "Course 3 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 46,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20004",
+            "course_name": "Course 4 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 106,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20005",
+            "course_name": "Course 5 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 67,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20006",
+            "course_name": "Course 6 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 70,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20007",
+            "course_name": "Course 7 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 117,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20008",
+            "course_name": "Course 8 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 93,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20009",
+            "course_name": "Course 9 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 102,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY20010",
+            "course_name": "Course 10 for Physics Level 200",
+            "department_id": 8,
+            "level": 200,
+            "students": 92,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30001",
+            "course_name": "Course 1 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 141,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30002",
+            "course_name": "Course 2 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 109,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30003",
+            "course_name": "Course 3 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 75,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30004",
+            "course_name": "Course 4 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 164,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30005",
+            "course_name": "Course 5 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 97,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30006",
+            "course_name": "Course 6 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 151,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30007",
+            "course_name": "Course 7 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 159,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30008",
+            "course_name": "Course 8 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 59,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30009",
+            "course_name": "Course 9 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 162,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY30010",
+            "course_name": "Course 10 for Physics Level 300",
+            "department_id": 8,
+            "level": 300,
+            "students": 103,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY40001",
+            "course_name": "Course 1 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 137,
+            "venue": "Venue 10",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY40002",
+            "course_name": "Course 2 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 123,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY40003",
+            "course_name": "Course 3 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 98,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "PHY40004",
+            "course_name": "Course 4 for Physics Level 400",
+            "department_id": 8,
+            "level": 400,
+            "students": 81,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10001",
+            "course_name": "Course 1 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 153,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10002",
+            "course_name": "Course 2 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 39,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10003",
+            "course_name": "Course 3 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 83,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10004",
+            "course_name": "Course 4 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 34,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10005",
+            "course_name": "Course 5 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 88,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10006",
+            "course_name": "Course 6 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 143,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10007",
+            "course_name": "Course 7 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 175,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10008",
+            "course_name": "Course 8 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 41,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10009",
+            "course_name": "Course 9 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 91,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10010",
+            "course_name": "Course 10 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 184,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO10011",
+            "course_name": "Course 11 for Economics Level 100",
+            "department_id": 9,
+            "level": 100,
+            "students": 187,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20001",
+            "course_name": "Course 1 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 158,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20002",
+            "course_name": "Course 2 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 190,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20003",
+            "course_name": "Course 3 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 94,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20004",
+            "course_name": "Course 4 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 57,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20005",
+            "course_name": "Course 5 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 41,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20006",
+            "course_name": "Course 6 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 34,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20007",
+            "course_name": "Course 7 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 37,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20008",
+            "course_name": "Course 8 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 142,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20009",
+            "course_name": "Course 9 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 194,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "ECO20010",
+            "course_name": "Course 10 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 170,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20011",
+            "course_name": "Course 11 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 84,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO20012",
+            "course_name": "Course 12 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 192,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "ECO20013",
+            "course_name": "Course 13 for Economics Level 200",
+            "department_id": 9,
+            "level": 200,
+            "students": 125,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30001",
+            "course_name": "Course 1 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 67,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30002",
+            "course_name": "Course 2 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 45,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30003",
+            "course_name": "Course 3 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 142,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30004",
+            "course_name": "Course 4 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 74,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30005",
+            "course_name": "Course 5 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 77,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30006",
+            "course_name": "Course 6 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 172,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30007",
+            "course_name": "Course 7 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 90,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30008",
+            "course_name": "Course 8 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 32,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30009",
+            "course_name": "Course 9 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 76,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO30010",
+            "course_name": "Course 10 for Economics Level 300",
+            "department_id": 9,
+            "level": 300,
+            "students": 55,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO40001",
+            "course_name": "Course 1 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 32,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO40002",
+            "course_name": "Course 2 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 181,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO40003",
+            "course_name": "Course 3 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 82,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO40004",
+            "course_name": "Course 4 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 186,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ECO40005",
+            "course_name": "Course 5 for Economics Level 400",
+            "department_id": 9,
+            "level": 400,
+            "students": 165,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10001",
+            "course_name": "Course 1 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 85,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10002",
+            "course_name": "Course 2 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 122,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10003",
+            "course_name": "Course 3 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 79,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10004",
+            "course_name": "Course 4 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 118,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10005",
+            "course_name": "Course 5 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 69,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10006",
+            "course_name": "Course 6 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 56,
+            "venue": "Venue 2",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10007",
+            "course_name": "Course 7 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 87,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10008",
+            "course_name": "Course 8 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 191,
+            "venue": "Venue 16",
+            "invigilators": 2
+        },
+        {
+            "course_code": "ACC10009",
+            "course_name": "Course 9 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 33,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10010",
+            "course_name": "Course 10 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 88,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC10011",
+            "course_name": "Course 11 for Accounting Level 100",
+            "department_id": 10,
+            "level": 100,
+            "students": 109,
+            "venue": "Venue 7",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20001",
+            "course_name": "Course 1 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 151,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20002",
+            "course_name": "Course 2 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 78,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20003",
+            "course_name": "Course 3 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 83,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20004",
+            "course_name": "Course 4 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 121,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20005",
+            "course_name": "Course 5 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 83,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20006",
+            "course_name": "Course 6 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 32,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20007",
+            "course_name": "Course 7 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 77,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20008",
+            "course_name": "Course 8 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 168,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20009",
+            "course_name": "Course 9 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 128,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20010",
+            "course_name": "Course 10 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 72,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20011",
+            "course_name": "Course 11 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 113,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20012",
+            "course_name": "Course 12 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 40,
+            "venue": "Venue 1",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20013",
+            "course_name": "Course 13 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 116,
+            "venue": "Venue 8",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC20014",
+            "course_name": "Course 14 for Accounting Level 200",
+            "department_id": 10,
+            "level": 200,
+            "students": 156,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC30001",
+            "course_name": "Course 1 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 98,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC30002",
+            "course_name": "Course 2 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 61,
+            "venue": "Venue 3",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC30003",
+            "course_name": "Course 3 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 122,
+            "venue": "Venue 9",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC30004",
+            "course_name": "Course 4 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 177,
+            "venue": "Venue 14",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC30005",
+            "course_name": "Course 5 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 76,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC30006",
+            "course_name": "Course 6 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 190,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC30007",
+            "course_name": "Course 7 for Accounting Level 300",
+            "department_id": 10,
+            "level": 300,
+            "students": 154,
+            "venue": "Venue 12",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC40001",
+            "course_name": "Course 1 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 147,
+            "venue": "Venue 11",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC40002",
+            "course_name": "Course 2 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 75,
+            "venue": "Venue 4",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC40003",
+            "course_name": "Course 3 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 95,
+            "venue": "Venue 6",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC40004",
+            "course_name": "Course 4 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 165,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC40005",
+            "course_name": "Course 5 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 166,
+            "venue": "Venue 13",
+            "invigilators": 1
+        },
+        {
+            "course_code": "ACC40006",
+            "course_name": "Course 6 for Accounting Level 400",
+            "department_id": 10,
+            "level": 400,
+            "students": 83,
+            "venue": "Venue 5",
+            "invigilators": 1
+        },
+        {
+            "course_code": "Math101",
+            "course_name": "Basic Mathematics",
+            "level": 100,
+            "department_ids": [
+                1,
+                2,
+                3
+            ],
+            "students": 324,
+            "venue": "Venue 29",
+            "invigilators": 3
+        },
+        {
+            "course_code": "Math102",
+            "course_name": "Advanced Mathematics",
+            "level": 200,
+            "department_ids": [
+                4,
+                5,
+                6
+            ],
+            "students": 185,
+            "venue": "Venue 15",
+            "invigilators": 1
+        },
+        {
+            "course_code": "GSP101",
+            "course_name": "General Studies: Communication Skills",
+            "level": 100,
+            "department_ids": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "students": 712,
+            "venue": "No suitable venue",
+            "invigilators": 0
+        }
+    ]
+}

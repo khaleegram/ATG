@@ -1,0 +1,2846 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Software Engineering",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 2,
+            "name": "Computer Science",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 3,
+            "name": "Cybersecurity",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 4,
+            "name": "Biology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 5,
+            "name": "Microbiology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 6,
+            "name": "Science Laboratory Technology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 7,
+            "name": "Mathematics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 8,
+            "name": "Physics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 9,
+            "name": "Economics",
+            "college": "Social Sciences"
+        },
+        {
+            "id": 10,
+            "name": "Accounting",
+            "college": "Social Sciences"
+        }
+    ],
+    "venues": [
+        {
+            "id": 1,
+            "name": "Venue 1",
+            "capacity": 50
+        },
+        {
+            "id": 2,
+            "name": "Venue 2",
+            "capacity": 60
+        },
+        {
+            "id": 3,
+            "name": "Venue 3",
+            "capacity": 70
+        },
+        {
+            "id": 4,
+            "name": "Venue 4",
+            "capacity": 80
+        },
+        {
+            "id": 5,
+            "name": "Venue 5",
+            "capacity": 90
+        },
+        {
+            "id": 6,
+            "name": "Venue 6",
+            "capacity": 100
+        },
+        {
+            "id": 7,
+            "name": "Venue 7",
+            "capacity": 110
+        },
+        {
+            "id": 8,
+            "name": "Venue 8",
+            "capacity": 120
+        },
+        {
+            "id": 9,
+            "name": "Venue 9",
+            "capacity": 130
+        },
+        {
+            "id": 10,
+            "name": "Venue 10",
+            "capacity": 140
+        },
+        {
+            "id": 11,
+            "name": "Venue 11",
+            "capacity": 150
+        },
+        {
+            "id": 12,
+            "name": "Venue 12",
+            "capacity": 160
+        },
+        {
+            "id": 13,
+            "name": "Venue 13",
+            "capacity": 170
+        },
+        {
+            "id": 14,
+            "name": "Venue 14",
+            "capacity": 180
+        },
+        {
+            "id": 15,
+            "name": "Venue 15",
+            "capacity": 190
+        },
+        {
+            "id": 16,
+            "name": "Venue 16",
+            "capacity": 200
+        },
+        {
+            "id": 17,
+            "name": "Venue 17",
+            "capacity": 210
+        },
+        {
+            "id": 18,
+            "name": "Venue 18",
+            "capacity": 220
+        },
+        {
+            "id": 19,
+            "name": "Venue 19",
+            "capacity": 230
+        },
+        {
+            "id": 20,
+            "name": "Venue 20",
+            "capacity": 240
+        },
+        {
+            "id": 21,
+            "name": "Venue 21",
+            "capacity": 250
+        },
+        {
+            "id": 22,
+            "name": "Venue 22",
+            "capacity": 260
+        },
+        {
+            "id": 23,
+            "name": "Venue 23",
+            "capacity": 270
+        },
+        {
+            "id": 24,
+            "name": "Venue 24",
+            "capacity": 280
+        },
+        {
+            "id": 25,
+            "name": "Venue 25",
+            "capacity": 290
+        },
+        {
+            "id": 26,
+            "name": "Venue 26",
+            "capacity": 300
+        },
+        {
+            "id": 27,
+            "name": "Venue 27",
+            "capacity": 310
+        },
+        {
+            "id": 28,
+            "name": "Venue 28",
+            "capacity": 320
+        },
+        {
+            "id": 29,
+            "name": "Venue 29",
+            "capacity": 330
+        }
+    ],
+    "levels": [
+        {
+            "id": 1,
+            "department_id": 1,
+            "level": 100,
+            "students": 129
+        },
+        {
+            "id": 2,
+            "department_id": 1,
+            "level": 200,
+            "students": 38
+        },
+        {
+            "id": 3,
+            "department_id": 1,
+            "level": 300,
+            "students": 120
+        },
+        {
+            "id": 4,
+            "department_id": 1,
+            "level": 400,
+            "students": 87
+        },
+        {
+            "id": 5,
+            "department_id": 2,
+            "level": 100,
+            "students": 115
+        },
+        {
+            "id": 6,
+            "department_id": 2,
+            "level": 200,
+            "students": 102
+        },
+        {
+            "id": 7,
+            "department_id": 2,
+            "level": 300,
+            "students": 148
+        },
+        {
+            "id": 8,
+            "department_id": 2,
+            "level": 400,
+            "students": 40
+        },
+        {
+            "id": 9,
+            "department_id": 3,
+            "level": 100,
+            "students": 75
+        },
+        {
+            "id": 10,
+            "department_id": 3,
+            "level": 200,
+            "students": 127
+        },
+        {
+            "id": 11,
+            "department_id": 3,
+            "level": 300,
+            "students": 44
+        },
+        {
+            "id": 12,
+            "department_id": 3,
+            "level": 400,
+            "students": 150
+        },
+        {
+            "id": 13,
+            "department_id": 4,
+            "level": 100,
+            "students": 137
+        },
+        {
+            "id": 14,
+            "department_id": 4,
+            "level": 200,
+            "students": 176
+        },
+        {
+            "id": 15,
+            "department_id": 4,
+            "level": 300,
+            "students": 78
+        },
+        {
+            "id": 16,
+            "department_id": 4,
+            "level": 400,
+            "students": 31
+        },
+        {
+            "id": 17,
+            "department_id": 5,
+            "level": 100,
+            "students": 109
+        },
+        {
+            "id": 18,
+            "department_id": 5,
+            "level": 200,
+            "students": 189
+        },
+        {
+            "id": 19,
+            "department_id": 5,
+            "level": 300,
+            "students": 176
+        },
+        {
+            "id": 20,
+            "department_id": 5,
+            "level": 400,
+            "students": 105
+        },
+        {
+            "id": 21,
+            "department_id": 6,
+            "level": 100,
+            "students": 129
+        },
+        {
+            "id": 22,
+            "department_id": 6,
+            "level": 200,
+            "students": 61
+        },
+        {
+            "id": 23,
+            "department_id": 6,
+            "level": 300,
+            "students": 107
+        },
+        {
+            "id": 24,
+            "department_id": 6,
+            "level": 400,
+            "students": 195
+        },
+        {
+            "id": 25,
+            "department_id": 7,
+            "level": 100,
+            "students": 177
+        },
+        {
+            "id": 26,
+            "department_id": 7,
+            "level": 200,
+            "students": 172
+        },
+        {
+            "id": 27,
+            "department_id": 7,
+            "level": 300,
+            "students": 49
+        },
+        {
+            "id": 28,
+            "department_id": 7,
+            "level": 400,
+            "students": 72
+        },
+        {
+            "id": 29,
+            "department_id": 8,
+            "level": 100,
+            "students": 50
+        },
+        {
+            "id": 30,
+            "department_id": 8,
+            "level": 200,
+            "students": 126
+        },
+        {
+            "id": 31,
+            "department_id": 8,
+            "level": 300,
+            "students": 116
+        },
+        {
+            "id": 32,
+            "department_id": 8,
+            "level": 400,
+            "students": 43
+        },
+        {
+            "id": 33,
+            "department_id": 9,
+            "level": 100,
+            "students": 32
+        },
+        {
+            "id": 34,
+            "department_id": 9,
+            "level": 200,
+            "students": 92
+        },
+        {
+            "id": 35,
+            "department_id": 9,
+            "level": 300,
+            "students": 42
+        },
+        {
+            "id": 36,
+            "department_id": 9,
+            "level": 400,
+            "students": 189
+        },
+        {
+            "id": 37,
+            "department_id": 10,
+            "level": 100,
+            "students": 177
+        },
+        {
+            "id": 38,
+            "department_id": 10,
+            "level": 200,
+            "students": 164
+        },
+        {
+            "id": 39,
+            "department_id": 10,
+            "level": 300,
+            "students": 179
+        },
+        {
+            "id": 40,
+            "department_id": 10,
+            "level": 400,
+            "students": 154
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "course_code": "COURSE1",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 2,
+            "course_code": "COURSE2",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 3,
+            "course_code": "COURSE3",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 4,
+            "course_code": "COURSE4",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 5,
+            "course_code": "COURSE5",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 6,
+            "course_code": "COURSE6",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 7,
+            "course_code": "COURSE7",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 8,
+            "course_code": "COURSE8",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 9,
+            "course_code": "COURSE9",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 10,
+            "course_code": "COURSE10",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 11,
+            "course_code": "COURSE11",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 12,
+            "course_code": "COURSE12",
+            "course_name": "Course 12 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 13,
+            "course_code": "COURSE13",
+            "course_name": "Course 13 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 14,
+            "course_code": "COURSE14",
+            "course_name": "Course 14 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 15,
+            "course_code": "COURSE15",
+            "course_name": "Course 15 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 16,
+            "course_code": "COURSE16",
+            "course_name": "Course 16 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 17,
+            "course_code": "COURSE17",
+            "course_name": "Course 17 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 18,
+            "course_code": "COURSE18",
+            "course_name": "Course 18 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 19,
+            "course_code": "COURSE19",
+            "course_name": "Course 19 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 20,
+            "course_code": "COURSE20",
+            "course_name": "Course 20 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 21,
+            "course_code": "COURSE21",
+            "course_name": "Course 21 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 22,
+            "course_code": "COURSE22",
+            "course_name": "Course 22 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 23,
+            "course_code": "COURSE23",
+            "course_name": "Course 23 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 24,
+            "course_code": "COURSE24",
+            "course_name": "Course 24 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 25,
+            "course_code": "COURSE25",
+            "course_name": "Course 25 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 26,
+            "course_code": "COURSE26",
+            "course_name": "Course 26 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 27,
+            "course_code": "COURSE27",
+            "course_name": "Course 27 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 28,
+            "course_code": "COURSE28",
+            "course_name": "Course 28 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 29,
+            "course_code": "COURSE29",
+            "course_name": "Course 29 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 30,
+            "course_code": "COURSE30",
+            "course_name": "Course 30 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 31,
+            "course_code": "COURSE31",
+            "course_name": "Course 31 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 32,
+            "course_code": "COURSE32",
+            "course_name": "Course 32 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 33,
+            "course_code": "COURSE33",
+            "course_name": "Course 33 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 34,
+            "course_code": "COURSE34",
+            "course_name": "Course 34 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 35,
+            "course_code": "COURSE35",
+            "course_name": "Course 35 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 36,
+            "course_code": "COURSE36",
+            "course_name": "Course 36 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 37,
+            "course_code": "COURSE37",
+            "course_name": "Course 37 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 38,
+            "course_code": "COURSE38",
+            "course_name": "Course 38 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 39,
+            "course_code": "COURSE39",
+            "course_name": "Course 39 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 40,
+            "course_code": "COURSE40",
+            "course_name": "Course 40 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 41,
+            "course_code": "COURSE41",
+            "course_name": "Course 41 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 42,
+            "course_code": "COURSE42",
+            "course_name": "Course 42 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 43,
+            "course_code": "COURSE43",
+            "course_name": "Course 43 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 44,
+            "course_code": "COURSE44",
+            "course_name": "Course 44 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 45,
+            "course_code": "COURSE45",
+            "course_name": "Course 45 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 46,
+            "course_code": "COURSE46",
+            "course_name": "Course 46 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 47,
+            "course_code": "COURSE47",
+            "course_name": "Course 47 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 48,
+            "course_code": "COURSE48",
+            "course_name": "Course 48 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 49,
+            "course_code": "COURSE49",
+            "course_name": "Course 49 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 50,
+            "course_code": "COURSE50",
+            "course_name": "Course 50 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 51,
+            "course_code": "COURSE51",
+            "course_name": "Course 51 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 52,
+            "course_code": "COURSE52",
+            "course_name": "Course 52 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 53,
+            "course_code": "COURSE53",
+            "course_name": "Course 53 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 54,
+            "course_code": "COURSE54",
+            "course_name": "Course 54 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 55,
+            "course_code": "COURSE55",
+            "course_name": "Course 55 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 56,
+            "course_code": "COURSE56",
+            "course_name": "Course 56 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 57,
+            "course_code": "COURSE57",
+            "course_name": "Course 57 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 58,
+            "course_code": "COURSE58",
+            "course_name": "Course 58 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 59,
+            "course_code": "COURSE59",
+            "course_name": "Course 59 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 60,
+            "course_code": "COURSE60",
+            "course_name": "Course 60 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 61,
+            "course_code": "COURSE61",
+            "course_name": "Course 61 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 62,
+            "course_code": "COURSE62",
+            "course_name": "Course 62 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 63,
+            "course_code": "COURSE63",
+            "course_name": "Course 63 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 64,
+            "course_code": "COURSE64",
+            "course_name": "Course 64 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 65,
+            "course_code": "COURSE65",
+            "course_name": "Course 65 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 66,
+            "course_code": "COURSE66",
+            "course_name": "Course 66 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 67,
+            "course_code": "COURSE67",
+            "course_name": "Course 67 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 68,
+            "course_code": "COURSE68",
+            "course_name": "Course 68 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 69,
+            "course_code": "COURSE69",
+            "course_name": "Course 69 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 70,
+            "course_code": "COURSE70",
+            "course_name": "Course 70 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 71,
+            "course_code": "COURSE71",
+            "course_name": "Course 71 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 72,
+            "course_code": "COURSE72",
+            "course_name": "Course 72 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 73,
+            "course_code": "COURSE73",
+            "course_name": "Course 73 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 74,
+            "course_code": "COURSE74",
+            "course_name": "Course 74 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 75,
+            "course_code": "COURSE75",
+            "course_name": "Course 75 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 76,
+            "course_code": "COURSE76",
+            "course_name": "Course 76 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 77,
+            "course_code": "COURSE77",
+            "course_name": "Course 77 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 78,
+            "course_code": "COURSE78",
+            "course_name": "Course 78 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 79,
+            "course_code": "COURSE79",
+            "course_name": "Course 79 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 80,
+            "course_code": "COURSE80",
+            "course_name": "Course 80 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 81,
+            "course_code": "COURSE81",
+            "course_name": "Course 81 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 82,
+            "course_code": "COURSE82",
+            "course_name": "Course 82 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 83,
+            "course_code": "COURSE83",
+            "course_name": "Course 83 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 84,
+            "course_code": "COURSE84",
+            "course_name": "Course 84 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 85,
+            "course_code": "COURSE85",
+            "course_name": "Course 85 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 86,
+            "course_code": "COURSE86",
+            "course_name": "Course 86 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 87,
+            "course_code": "COURSE87",
+            "course_name": "Course 87 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 88,
+            "course_code": "COURSE88",
+            "course_name": "Course 88 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 89,
+            "course_code": "COURSE89",
+            "course_name": "Course 89 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 90,
+            "course_code": "COURSE90",
+            "course_name": "Course 90 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 91,
+            "course_code": "COURSE91",
+            "course_name": "Course 91 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 92,
+            "course_code": "COURSE92",
+            "course_name": "Course 92 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 93,
+            "course_code": "COURSE93",
+            "course_name": "Course 93 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 94,
+            "course_code": "COURSE94",
+            "course_name": "Course 94 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 95,
+            "course_code": "COURSE95",
+            "course_name": "Course 95 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 96,
+            "course_code": "COURSE96",
+            "course_name": "Course 96 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 97,
+            "course_code": "COURSE97",
+            "course_name": "Course 97 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 98,
+            "course_code": "COURSE98",
+            "course_name": "Course 98 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 99,
+            "course_code": "COURSE99",
+            "course_name": "Course 99 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 100,
+            "course_code": "COURSE100",
+            "course_name": "Course 100 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 101,
+            "course_code": "COURSE101",
+            "course_name": "Course 101 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 102,
+            "course_code": "COURSE102",
+            "course_name": "Course 102 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 103,
+            "course_code": "COURSE103",
+            "course_name": "Course 103 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 104,
+            "course_code": "COURSE104",
+            "course_name": "Course 104 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 105,
+            "course_code": "COURSE105",
+            "course_name": "Course 105 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 106,
+            "course_code": "COURSE106",
+            "course_name": "Course 106 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 107,
+            "course_code": "COURSE107",
+            "course_name": "Course 107 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 108,
+            "course_code": "COURSE108",
+            "course_name": "Course 108 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 109,
+            "course_code": "COURSE109",
+            "course_name": "Course 109 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 110,
+            "course_code": "COURSE110",
+            "course_name": "Course 110 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 111,
+            "course_code": "COURSE111",
+            "course_name": "Course 111 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 112,
+            "course_code": "COURSE112",
+            "course_name": "Course 112 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 113,
+            "course_code": "COURSE113",
+            "course_name": "Course 113 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 114,
+            "course_code": "COURSE114",
+            "course_name": "Course 114 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 115,
+            "course_code": "COURSE115",
+            "course_name": "Course 115 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 116,
+            "course_code": "COURSE116",
+            "course_name": "Course 116 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 117,
+            "course_code": "COURSE117",
+            "course_name": "Course 117 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 118,
+            "course_code": "COURSE118",
+            "course_name": "Course 118 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 119,
+            "course_code": "COURSE119",
+            "course_name": "Course 119 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 120,
+            "course_code": "COURSE120",
+            "course_name": "Course 120 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 121,
+            "course_code": "COURSE121",
+            "course_name": "Course 121 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 122,
+            "course_code": "COURSE122",
+            "course_name": "Course 122 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 123,
+            "course_code": "COURSE123",
+            "course_name": "Course 123 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 124,
+            "course_code": "COURSE124",
+            "course_name": "Course 124 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 125,
+            "course_code": "COURSE125",
+            "course_name": "Course 125 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 126,
+            "course_code": "COURSE126",
+            "course_name": "Course 126 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 127,
+            "course_code": "COURSE127",
+            "course_name": "Course 127 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 128,
+            "course_code": "COURSE128",
+            "course_name": "Course 128 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 129,
+            "course_code": "COURSE129",
+            "course_name": "Course 129 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 130,
+            "course_code": "COURSE130",
+            "course_name": "Course 130 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 131,
+            "course_code": "COURSE131",
+            "course_name": "Course 131 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 132,
+            "course_code": "COURSE132",
+            "course_name": "Course 132 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 133,
+            "course_code": "COURSE133",
+            "course_name": "Course 133 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 134,
+            "course_code": "COURSE134",
+            "course_name": "Course 134 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 135,
+            "course_code": "COURSE135",
+            "course_name": "Course 135 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 136,
+            "course_code": "COURSE136",
+            "course_name": "Course 136 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 137,
+            "course_code": "COURSE137",
+            "course_name": "Course 137 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 138,
+            "course_code": "COURSE138",
+            "course_name": "Course 138 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 139,
+            "course_code": "COURSE139",
+            "course_name": "Course 139 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 140,
+            "course_code": "COURSE140",
+            "course_name": "Course 140 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 141,
+            "course_code": "COURSE141",
+            "course_name": "Course 141 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 142,
+            "course_code": "COURSE142",
+            "course_name": "Course 142 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 143,
+            "course_code": "COURSE143",
+            "course_name": "Course 143 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 144,
+            "course_code": "COURSE144",
+            "course_name": "Course 144 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 145,
+            "course_code": "COURSE145",
+            "course_name": "Course 145 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 146,
+            "course_code": "COURSE146",
+            "course_name": "Course 146 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 147,
+            "course_code": "COURSE147",
+            "course_name": "Course 147 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 148,
+            "course_code": "COURSE148",
+            "course_name": "Course 148 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 149,
+            "course_code": "COURSE149",
+            "course_name": "Course 149 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 150,
+            "course_code": "COURSE150",
+            "course_name": "Course 150 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 151,
+            "course_code": "COURSE151",
+            "course_name": "Course 151 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 152,
+            "course_code": "COURSE152",
+            "course_name": "Course 152 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 153,
+            "course_code": "COURSE153",
+            "course_name": "Course 153 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 154,
+            "course_code": "COURSE154",
+            "course_name": "Course 154 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 155,
+            "course_code": "COURSE155",
+            "course_name": "Course 155 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 156,
+            "course_code": "COURSE156",
+            "course_name": "Course 156 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 157,
+            "course_code": "COURSE157",
+            "course_name": "Course 157 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 158,
+            "course_code": "COURSE158",
+            "course_name": "Course 158 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 159,
+            "course_code": "COURSE159",
+            "course_name": "Course 159 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 160,
+            "course_code": "COURSE160",
+            "course_name": "Course 160 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 161,
+            "course_code": "COURSE161",
+            "course_name": "Course 161 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 162,
+            "course_code": "COURSE162",
+            "course_name": "Course 162 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 163,
+            "course_code": "COURSE163",
+            "course_name": "Course 163 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 164,
+            "course_code": "COURSE164",
+            "course_name": "Course 164 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 165,
+            "course_code": "COURSE165",
+            "course_name": "Course 165 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 166,
+            "course_code": "COURSE166",
+            "course_name": "Course 166 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 167,
+            "course_code": "COURSE167",
+            "course_name": "Course 167 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 168,
+            "course_code": "COURSE168",
+            "course_name": "Course 168 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 169,
+            "course_code": "COURSE169",
+            "course_name": "Course 169 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 170,
+            "course_code": "COURSE170",
+            "course_name": "Course 170 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 171,
+            "course_code": "COURSE171",
+            "course_name": "Course 171 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 172,
+            "course_code": "COURSE172",
+            "course_name": "Course 172 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 173,
+            "course_code": "COURSE173",
+            "course_name": "Course 173 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 174,
+            "course_code": "COURSE174",
+            "course_name": "Course 174 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 175,
+            "course_code": "COURSE175",
+            "course_name": "Course 175 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 176,
+            "course_code": "COURSE176",
+            "course_name": "Course 176 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 177,
+            "course_code": "COURSE177",
+            "course_name": "Course 177 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 178,
+            "course_code": "COURSE178",
+            "course_name": "Course 178 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 179,
+            "course_code": "COURSE179",
+            "course_name": "Course 179 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 180,
+            "course_code": "COURSE180",
+            "course_name": "Course 180 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 181,
+            "course_code": "COURSE181",
+            "course_name": "Course 181 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 182,
+            "course_code": "COURSE182",
+            "course_name": "Course 182 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 183,
+            "course_code": "COURSE183",
+            "course_name": "Course 183 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 184,
+            "course_code": "COURSE184",
+            "course_name": "Course 184 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 185,
+            "course_code": "COURSE185",
+            "course_name": "Course 185 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 186,
+            "course_code": "COURSE186",
+            "course_name": "Course 186 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 187,
+            "course_code": "COURSE187",
+            "course_name": "Course 187 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 188,
+            "course_code": "COURSE188",
+            "course_name": "Course 188 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 189,
+            "course_code": "COURSE189",
+            "course_name": "Course 189 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 190,
+            "course_code": "COURSE190",
+            "course_name": "Course 190 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 191,
+            "course_code": "COURSE191",
+            "course_name": "Course 191 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 192,
+            "course_code": "COURSE192",
+            "course_name": "Course 192 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 193,
+            "course_code": "COURSE193",
+            "course_name": "Course 193 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 194,
+            "course_code": "COURSE194",
+            "course_name": "Course 194 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 195,
+            "course_code": "COURSE195",
+            "course_name": "Course 195 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 196,
+            "course_code": "COURSE196",
+            "course_name": "Course 196 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 197,
+            "course_code": "COURSE197",
+            "course_name": "Course 197 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 198,
+            "course_code": "COURSE198",
+            "course_name": "Course 198 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 199,
+            "course_code": "COURSE199",
+            "course_name": "Course 199 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 200,
+            "course_code": "COURSE200",
+            "course_name": "Course 200 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 201,
+            "course_code": "COURSE201",
+            "course_name": "Course 201 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 202,
+            "course_code": "COURSE202",
+            "course_name": "Course 202 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 203,
+            "course_code": "COURSE203",
+            "course_name": "Course 203 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 204,
+            "course_code": "COURSE204",
+            "course_name": "Course 204 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 205,
+            "course_code": "COURSE205",
+            "course_name": "Course 205 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 206,
+            "course_code": "COURSE206",
+            "course_name": "Course 206 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 207,
+            "course_code": "COURSE207",
+            "course_name": "Course 207 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 208,
+            "course_code": "COURSE208",
+            "course_name": "Course 208 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 209,
+            "course_code": "COURSE209",
+            "course_name": "Course 209 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 210,
+            "course_code": "COURSE210",
+            "course_name": "Course 210 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 211,
+            "course_code": "COURSE211",
+            "course_name": "Course 211 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 212,
+            "course_code": "COURSE212",
+            "course_name": "Course 212 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 213,
+            "course_code": "COURSE213",
+            "course_name": "Course 213 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 214,
+            "course_code": "COURSE214",
+            "course_name": "Course 214 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 215,
+            "course_code": "COURSE215",
+            "course_name": "Course 215 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 216,
+            "course_code": "COURSE216",
+            "course_name": "Course 216 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 217,
+            "course_code": "COURSE217",
+            "course_name": "Course 217 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 218,
+            "course_code": "COURSE218",
+            "course_name": "Course 218 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 219,
+            "course_code": "COURSE219",
+            "course_name": "Course 219 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 220,
+            "course_code": "COURSE220",
+            "course_name": "Course 220 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 221,
+            "course_code": "COURSE221",
+            "course_name": "Course 221 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 222,
+            "course_code": "COURSE222",
+            "course_name": "Course 222 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 223,
+            "course_code": "COURSE223",
+            "course_name": "Course 223 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 224,
+            "course_code": "COURSE224",
+            "course_name": "Course 224 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 225,
+            "course_code": "COURSE225",
+            "course_name": "Course 225 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 226,
+            "course_code": "COURSE226",
+            "course_name": "Course 226 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 227,
+            "course_code": "COURSE227",
+            "course_name": "Course 227 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 228,
+            "course_code": "COURSE228",
+            "course_name": "Course 228 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 229,
+            "course_code": "COURSE229",
+            "course_name": "Course 229 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 230,
+            "course_code": "COURSE230",
+            "course_name": "Course 230 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 231,
+            "course_code": "COURSE231",
+            "course_name": "Course 231 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 232,
+            "course_code": "COURSE232",
+            "course_name": "Course 232 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 233,
+            "course_code": "COURSE233",
+            "course_name": "Course 233 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 234,
+            "course_code": "COURSE234",
+            "course_name": "Course 234 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 235,
+            "course_code": "COURSE235",
+            "course_name": "Course 235 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 236,
+            "course_code": "COURSE236",
+            "course_name": "Course 236 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 237,
+            "course_code": "COURSE237",
+            "course_name": "Course 237 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 238,
+            "course_code": "COURSE238",
+            "course_name": "Course 238 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 239,
+            "course_code": "COURSE239",
+            "course_name": "Course 239 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 240,
+            "course_code": "COURSE240",
+            "course_name": "Course 240 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 241,
+            "course_code": "COURSE241",
+            "course_name": "Course 241 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 242,
+            "course_code": "COURSE242",
+            "course_name": "Course 242 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 243,
+            "course_code": "COURSE243",
+            "course_name": "Course 243 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 244,
+            "course_code": "COURSE244",
+            "course_name": "Course 244 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 245,
+            "course_code": "COURSE245",
+            "course_name": "Course 245 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 246,
+            "course_code": "COURSE246",
+            "course_name": "Course 246 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 247,
+            "course_code": "COURSE247",
+            "course_name": "Course 247 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 248,
+            "course_code": "COURSE248",
+            "course_name": "Course 248 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 249,
+            "course_code": "COURSE249",
+            "course_name": "Course 249 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 250,
+            "course_code": "COURSE250",
+            "course_name": "Course 250 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 251,
+            "course_code": "COURSE251",
+            "course_name": "Course 251 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 252,
+            "course_code": "COURSE252",
+            "course_name": "Course 252 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 253,
+            "course_code": "COURSE253",
+            "course_name": "Course 253 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 254,
+            "course_code": "COURSE254",
+            "course_name": "Course 254 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 255,
+            "course_code": "COURSE255",
+            "course_name": "Course 255 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 256,
+            "course_code": "COURSE256",
+            "course_name": "Course 256 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 257,
+            "course_code": "COURSE257",
+            "course_name": "Course 257 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 258,
+            "course_code": "COURSE258",
+            "course_name": "Course 258 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 259,
+            "course_code": "COURSE259",
+            "course_name": "Course 259 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 260,
+            "course_code": "COURSE260",
+            "course_name": "Course 260 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 261,
+            "course_code": "COURSE261",
+            "course_name": "Course 261 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 262,
+            "course_code": "COURSE262",
+            "course_name": "Course 262 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 263,
+            "course_code": "COURSE263",
+            "course_name": "Course 263 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 264,
+            "course_code": "COURSE264",
+            "course_name": "Course 264 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 265,
+            "course_code": "COURSE265",
+            "course_name": "Course 265 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 266,
+            "course_code": "COURSE266",
+            "course_name": "Course 266 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 267,
+            "course_code": "COURSE267",
+            "course_name": "Course 267 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 268,
+            "course_code": "COURSE268",
+            "course_name": "Course 268 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 269,
+            "course_code": "COURSE269",
+            "course_name": "Course 269 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 270,
+            "course_code": "COURSE270",
+            "course_name": "Course 270 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 271,
+            "course_code": "COURSE271",
+            "course_name": "Course 271 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 272,
+            "course_code": "COURSE272",
+            "course_name": "Course 272 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 273,
+            "course_code": "COURSE273",
+            "course_name": "Course 273 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 274,
+            "course_code": "COURSE274",
+            "course_name": "Course 274 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 275,
+            "course_code": "COURSE275",
+            "course_name": "Course 275 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 276,
+            "course_code": "COURSE276",
+            "course_name": "Course 276 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 277,
+            "course_code": "COURSE277",
+            "course_name": "Course 277 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 278,
+            "course_code": "COURSE278",
+            "course_name": "Course 278 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 279,
+            "course_code": "COURSE279",
+            "course_name": "Course 279 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 280,
+            "course_code": "COURSE280",
+            "course_name": "Course 280 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 281,
+            "course_code": "COURSE281",
+            "course_name": "Course 281 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 282,
+            "course_code": "COURSE282",
+            "course_name": "Course 282 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 283,
+            "course_code": "COURSE283",
+            "course_name": "Course 283 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 284,
+            "course_code": "COURSE284",
+            "course_name": "Course 284 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 285,
+            "course_code": "COURSE285",
+            "course_name": "Course 285 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 286,
+            "course_code": "COURSE286",
+            "course_name": "Course 286 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 287,
+            "course_code": "COURSE287",
+            "course_name": "Course 287 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 288,
+            "course_code": "COURSE288",
+            "course_name": "Course 288 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 289,
+            "course_code": "COURSE289",
+            "course_name": "Course 289 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 290,
+            "course_code": "COURSE290",
+            "course_name": "Course 290 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 291,
+            "course_code": "COURSE291",
+            "course_name": "Course 291 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 292,
+            "course_code": "COURSE292",
+            "course_name": "Course 292 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 293,
+            "course_code": "COURSE293",
+            "course_name": "Course 293 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 294,
+            "course_code": "COURSE294",
+            "course_name": "Course 294 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 295,
+            "course_code": "COURSE295",
+            "course_name": "Course 295 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 296,
+            "course_code": "COURSE296",
+            "course_name": "Course 296 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 297,
+            "course_code": "COURSE297",
+            "course_name": "Course 297 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 298,
+            "course_code": "COURSE298",
+            "course_name": "Course 298 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 299,
+            "course_code": "COURSE299",
+            "course_name": "Course 299 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 300,
+            "course_code": "COURSE300",
+            "course_name": "Course 300 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 301,
+            "course_code": "COURSE301",
+            "course_name": "Course 301 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 302,
+            "course_code": "COURSE302",
+            "course_name": "Course 302 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 303,
+            "course_code": "COURSE303",
+            "course_name": "Course 303 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 304,
+            "course_code": "COURSE304",
+            "course_name": "Course 304 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 305,
+            "course_code": "COURSE305",
+            "course_name": "Course 305 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 306,
+            "course_code": "COURSE306",
+            "course_name": "Course 306 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 307,
+            "course_code": "COURSE307",
+            "course_name": "Course 307 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 308,
+            "course_code": "COURSE308",
+            "course_name": "Course 308 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 309,
+            "course_code": "COURSE309",
+            "course_name": "Course 309 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 310,
+            "course_code": "COURSE310",
+            "course_name": "Course 310 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 311,
+            "course_code": "COURSE311",
+            "course_name": "Course 311 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 312,
+            "course_code": "COURSE312",
+            "course_name": "Course 312 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 313,
+            "course_code": "COURSE313",
+            "course_name": "Course 313 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 314,
+            "course_code": "COURSE314",
+            "course_name": "Course 314 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 315,
+            "course_code": "COURSE315",
+            "course_name": "Course 315 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 316,
+            "course_code": "COURSE316",
+            "course_name": "Course 316 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 317,
+            "course_code": "COURSE317",
+            "course_name": "Course 317 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 318,
+            "course_code": "COURSE318",
+            "course_name": "Course 318 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 319,
+            "course_code": "COURSE319",
+            "course_name": "Course 319 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 320,
+            "course_code": "COURSE320",
+            "course_name": "Course 320 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 321,
+            "course_code": "COURSE321",
+            "course_name": "Course 321 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 322,
+            "course_code": "COURSE322",
+            "course_name": "Course 322 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 323,
+            "course_code": "COURSE323",
+            "course_name": "Course 323 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 324,
+            "course_code": "COURSE324",
+            "course_name": "Course 324 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 325,
+            "course_code": "COURSE325",
+            "course_name": "Course 325 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 326,
+            "course_code": "COURSE326",
+            "course_name": "Course 326 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 327,
+            "course_code": "COURSE327",
+            "course_name": "Course 327 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 328,
+            "course_code": "COURSE328",
+            "course_name": "Course 328 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 329,
+            "course_code": "COURSE329",
+            "course_name": "Course 329 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 330,
+            "course_code": "COURSE330",
+            "course_name": "Course 330 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 331,
+            "course_code": "COURSE331",
+            "course_name": "Course 331 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 332,
+            "course_code": "COURSE332",
+            "course_name": "Course 332 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 333,
+            "course_code": "COURSE333",
+            "course_name": "Course 333 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 334,
+            "course_code": "COURSE334",
+            "course_name": "Course 334 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 335,
+            "course_code": "COURSE335",
+            "course_name": "Course 335 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 336,
+            "course_code": "COURSE336",
+            "course_name": "Course 336 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 337,
+            "course_code": "COURSE337",
+            "course_name": "Course 337 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 338,
+            "course_code": "COURSE338",
+            "course_name": "Course 338 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 339,
+            "course_code": "COURSE339",
+            "course_name": "Course 339 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 340,
+            "course_code": "COURSE340",
+            "course_name": "Course 340 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 341,
+            "course_code": "COURSE341",
+            "course_name": "Course 341 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 342,
+            "course_code": "COURSE342",
+            "course_name": "Course 342 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 343,
+            "course_code": "COURSE343",
+            "course_name": "Course 343 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 344,
+            "course_code": "COURSE344",
+            "course_name": "Course 344 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 345,
+            "course_code": "COURSE345",
+            "course_name": "Course 345 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 346,
+            "course_code": "COURSE346",
+            "course_name": "Course 346 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 347,
+            "course_code": "COURSE347",
+            "course_name": "Course 347 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 348,
+            "course_code": "COURSE348",
+            "course_name": "Course 348 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 349,
+            "course_code": "COURSE349",
+            "course_name": "Course 349 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 350,
+            "course_code": "COURSE350",
+            "course_name": "Course 350 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 351,
+            "course_code": "COURSE351",
+            "course_name": "Course 351 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 352,
+            "course_code": "COURSE352",
+            "course_name": "Course 352 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 353,
+            "course_code": "COURSE353",
+            "course_name": "Course 353 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 354,
+            "course_code": "COURSE354",
+            "course_name": "Course 354 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 355,
+            "course_code": "COURSE355",
+            "course_name": "Course 355 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 356,
+            "course_code": "COURSE356",
+            "course_name": "Course 356 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 357,
+            "course_code": "COURSE357",
+            "course_name": "Course 357 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 358,
+            "course_code": "COURSE358",
+            "course_name": "Course 358 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 359,
+            "course_code": "COURSE359",
+            "course_name": "Course 359 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 360,
+            "course_code": "COURSE360",
+            "course_name": "Course 360 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 361,
+            "course_code": "COURSE361",
+            "course_name": "Course 361 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 362,
+            "course_code": "COURSE362",
+            "course_name": "Course 362 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 363,
+            "course_code": "COURSE363",
+            "course_name": "Course 363 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 364,
+            "course_code": "COURSE364",
+            "course_name": "Course 364 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 365,
+            "course_code": "COURSE365",
+            "course_name": "Course 365 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 366,
+            "course_code": "COURSE366",
+            "course_name": "Course 366 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 367,
+            "course_code": "COURSE367",
+            "course_name": "Course 367 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 368,
+            "course_code": "COURSE368",
+            "course_name": "Course 368 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 369,
+            "course_code": "COURSE369",
+            "course_name": "Course 369 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 370,
+            "course_code": "COURSE370",
+            "course_name": "Course 370 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 371,
+            "course_code": "COURSE371",
+            "course_name": "Course 371 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 372,
+            "course_code": "COURSE372",
+            "course_name": "Course 372 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 373,
+            "course_code": "COURSE373",
+            "course_name": "Course 373 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 374,
+            "course_code": "COURSE374",
+            "course_name": "Course 374 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 375,
+            "course_code": "COURSE375",
+            "course_name": "Course 375 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 376,
+            "course_code": "COURSE376",
+            "course_name": "Course 376 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 377,
+            "course_code": "COURSE377",
+            "course_name": "Course 377 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 378,
+            "course_code": "COURSE378",
+            "course_name": "Course 378 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 379,
+            "course_code": "COURSE379",
+            "course_name": "Course 379 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 380,
+            "course_code": "COURSE380",
+            "course_name": "Course 380 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 381,
+            "course_code": "COURSE381",
+            "course_name": "Course 381 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 382,
+            "course_code": "COURSE382",
+            "course_name": "Course 382 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 383,
+            "course_code": "COURSE383",
+            "course_name": "Course 383 for Level 400",
+            "level_id": 40
+        }
+    ],
+    "combined_courses": [
+        {
+            "course_code": "Math101",
+            "course_name": "Basic Mathematics",
+            "department_ids": [
+                1,
+                2,
+                3
+            ],
+            "level": 100,
+            "students": 326
+        },
+        {
+            "course_code": "Math102",
+            "course_name": "Advanced Mathematics",
+            "department_ids": [
+                4,
+                5,
+                6
+            ],
+            "level": 200,
+            "students": 270
+        },
+        {
+            "course_code": "GSP101",
+            "course_name": "General Studies: Communication Skills",
+            "department_ids": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "level": 100,
+            "students": 571
+        }
+    ],
+    "time_slots": [
+        {
+            "id": 1,
+            "start_time": "8:00",
+            "end_time": "9:00"
+        },
+        {
+            "id": 2,
+            "start_time": "9:00",
+            "end_time": "10:00"
+        },
+        {
+            "id": 3,
+            "start_time": "10:00",
+            "end_time": "11:00"
+        },
+        {
+            "id": 4,
+            "start_time": "11:00",
+            "end_time": "12:00"
+        },
+        {
+            "id": 5,
+            "start_time": "12:00",
+            "end_time": "13:00"
+        },
+        {
+            "id": 6,
+            "start_time": "14:00",
+            "end_time": "15:00"
+        },
+        {
+            "id": 7,
+            "start_time": "15:00",
+            "end_time": "16:00"
+        },
+        {
+            "id": 8,
+            "start_time": "16:00",
+            "end_time": "17:00"
+        },
+        {
+            "id": 9,
+            "start_time": "17:00",
+            "end_time": "18:00"
+        }
+    ],
+    "date_range": [
+        {
+            "id": 1,
+            "week": "Week 1"
+        },
+        {
+            "id": 2,
+            "week": "Week 2"
+        },
+        {
+            "id": 3,
+            "week": "Week 3"
+        },
+        {
+            "id": 4,
+            "week": "Week 4"
+        }
+    ]
+}

@@ -1,0 +1,6302 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "Software Engineering",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 2,
+            "name": "Computer Science",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 3,
+            "name": "Cybersecurity",
+            "college": "Computing and Information Science"
+        },
+        {
+            "id": 4,
+            "name": "Biology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 5,
+            "name": "Microbiology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 6,
+            "name": "Science Laboratory Technology",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 7,
+            "name": "Mathematics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 8,
+            "name": "Physics",
+            "college": "Natural Sciences"
+        },
+        {
+            "id": 9,
+            "name": "Economics",
+            "college": "Social Sciences"
+        },
+        {
+            "id": 10,
+            "name": "Accounting",
+            "college": "Social Sciences"
+        }
+    ],
+    "venues": [
+        {
+            "id": 1,
+            "name": "Venue 1",
+            "capacity": 50
+        },
+        {
+            "id": 2,
+            "name": "Venue 2",
+            "capacity": 60
+        },
+        {
+            "id": 3,
+            "name": "Venue 3",
+            "capacity": 70
+        },
+        {
+            "id": 4,
+            "name": "Venue 4",
+            "capacity": 80
+        },
+        {
+            "id": 5,
+            "name": "Venue 5",
+            "capacity": 90
+        },
+        {
+            "id": 6,
+            "name": "Venue 6",
+            "capacity": 100
+        },
+        {
+            "id": 7,
+            "name": "Venue 7",
+            "capacity": 110
+        },
+        {
+            "id": 8,
+            "name": "Venue 8",
+            "capacity": 120
+        },
+        {
+            "id": 9,
+            "name": "Venue 9",
+            "capacity": 130
+        },
+        {
+            "id": 10,
+            "name": "Venue 10",
+            "capacity": 140
+        },
+        {
+            "id": 11,
+            "name": "Venue 11",
+            "capacity": 150
+        },
+        {
+            "id": 12,
+            "name": "Venue 12",
+            "capacity": 160
+        },
+        {
+            "id": 13,
+            "name": "Venue 13",
+            "capacity": 170
+        },
+        {
+            "id": 14,
+            "name": "Venue 14",
+            "capacity": 180
+        },
+        {
+            "id": 15,
+            "name": "Venue 15",
+            "capacity": 190
+        },
+        {
+            "id": 16,
+            "name": "Venue 16",
+            "capacity": 200
+        },
+        {
+            "id": 17,
+            "name": "Venue 17",
+            "capacity": 210
+        },
+        {
+            "id": 18,
+            "name": "Venue 18",
+            "capacity": 220
+        },
+        {
+            "id": 19,
+            "name": "Venue 19",
+            "capacity": 230
+        },
+        {
+            "id": 20,
+            "name": "Venue 20",
+            "capacity": 240
+        },
+        {
+            "id": 21,
+            "name": "Venue 21",
+            "capacity": 250
+        },
+        {
+            "id": 22,
+            "name": "Venue 22",
+            "capacity": 260
+        },
+        {
+            "id": 23,
+            "name": "Venue 23",
+            "capacity": 270
+        },
+        {
+            "id": 24,
+            "name": "Venue 24",
+            "capacity": 280
+        },
+        {
+            "id": 25,
+            "name": "Venue 25",
+            "capacity": 290
+        },
+        {
+            "id": 26,
+            "name": "Venue 26",
+            "capacity": 300
+        },
+        {
+            "id": 27,
+            "name": "Venue 27",
+            "capacity": 310
+        },
+        {
+            "id": 28,
+            "name": "Venue 28",
+            "capacity": 320
+        },
+        {
+            "id": 29,
+            "name": "Venue 29",
+            "capacity": 330
+        }
+    ],
+    "levels": [
+        {
+            "id": 1,
+            "department_id": 1,
+            "level": 100,
+            "students": 188
+        },
+        {
+            "id": 2,
+            "department_id": 1,
+            "level": 200,
+            "students": 63
+        },
+        {
+            "id": 3,
+            "department_id": 1,
+            "level": 300,
+            "students": 186
+        },
+        {
+            "id": 4,
+            "department_id": 1,
+            "level": 400,
+            "students": 46
+        },
+        {
+            "id": 5,
+            "department_id": 2,
+            "level": 100,
+            "students": 138
+        },
+        {
+            "id": 6,
+            "department_id": 2,
+            "level": 200,
+            "students": 149
+        },
+        {
+            "id": 7,
+            "department_id": 2,
+            "level": 300,
+            "students": 81
+        },
+        {
+            "id": 8,
+            "department_id": 2,
+            "level": 400,
+            "students": 44
+        },
+        {
+            "id": 9,
+            "department_id": 3,
+            "level": 100,
+            "students": 78
+        },
+        {
+            "id": 10,
+            "department_id": 3,
+            "level": 200,
+            "students": 165
+        },
+        {
+            "id": 11,
+            "department_id": 3,
+            "level": 300,
+            "students": 67
+        },
+        {
+            "id": 12,
+            "department_id": 3,
+            "level": 400,
+            "students": 152
+        },
+        {
+            "id": 13,
+            "department_id": 4,
+            "level": 100,
+            "students": 64
+        },
+        {
+            "id": 14,
+            "department_id": 4,
+            "level": 200,
+            "students": 147
+        },
+        {
+            "id": 15,
+            "department_id": 4,
+            "level": 300,
+            "students": 117
+        },
+        {
+            "id": 16,
+            "department_id": 4,
+            "level": 400,
+            "students": 63
+        },
+        {
+            "id": 17,
+            "department_id": 5,
+            "level": 100,
+            "students": 170
+        },
+        {
+            "id": 18,
+            "department_id": 5,
+            "level": 200,
+            "students": 69
+        },
+        {
+            "id": 19,
+            "department_id": 5,
+            "level": 300,
+            "students": 140
+        },
+        {
+            "id": 20,
+            "department_id": 5,
+            "level": 400,
+            "students": 58
+        },
+        {
+            "id": 21,
+            "department_id": 6,
+            "level": 100,
+            "students": 143
+        },
+        {
+            "id": 22,
+            "department_id": 6,
+            "level": 200,
+            "students": 79
+        },
+        {
+            "id": 23,
+            "department_id": 6,
+            "level": 300,
+            "students": 34
+        },
+        {
+            "id": 24,
+            "department_id": 6,
+            "level": 400,
+            "students": 163
+        },
+        {
+            "id": 25,
+            "department_id": 7,
+            "level": 100,
+            "students": 176
+        },
+        {
+            "id": 26,
+            "department_id": 7,
+            "level": 200,
+            "students": 112
+        },
+        {
+            "id": 27,
+            "department_id": 7,
+            "level": 300,
+            "students": 156
+        },
+        {
+            "id": 28,
+            "department_id": 7,
+            "level": 400,
+            "students": 139
+        },
+        {
+            "id": 29,
+            "department_id": 8,
+            "level": 100,
+            "students": 78
+        },
+        {
+            "id": 30,
+            "department_id": 8,
+            "level": 200,
+            "students": 134
+        },
+        {
+            "id": 31,
+            "department_id": 8,
+            "level": 300,
+            "students": 153
+        },
+        {
+            "id": 32,
+            "department_id": 8,
+            "level": 400,
+            "students": 73
+        },
+        {
+            "id": 33,
+            "department_id": 9,
+            "level": 100,
+            "students": 53
+        },
+        {
+            "id": 34,
+            "department_id": 9,
+            "level": 200,
+            "students": 138
+        },
+        {
+            "id": 35,
+            "department_id": 9,
+            "level": 300,
+            "students": 147
+        },
+        {
+            "id": 36,
+            "department_id": 9,
+            "level": 400,
+            "students": 159
+        },
+        {
+            "id": 37,
+            "department_id": 10,
+            "level": 100,
+            "students": 179
+        },
+        {
+            "id": 38,
+            "department_id": 10,
+            "level": 200,
+            "students": 135
+        },
+        {
+            "id": 39,
+            "department_id": 10,
+            "level": 300,
+            "students": 88
+        },
+        {
+            "id": 40,
+            "department_id": 10,
+            "level": 400,
+            "students": 184
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 2,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 3,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 4,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 5,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 6,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 7,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 8,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 9,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 10,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 11,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 12,
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 13,
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "level_id": 1
+        },
+        {
+            "id": 14,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 15,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 16,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 17,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 18,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 19,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 20,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 21,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 22,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 23,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 24,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 25,
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 26,
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 27,
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "level_id": 2
+        },
+        {
+            "id": 28,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 29,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 30,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 31,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 32,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 33,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 34,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 35,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 36,
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 37,
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "level_id": 3
+        },
+        {
+            "id": 38,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 39,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 40,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 41,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 42,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 43,
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "level_id": 4
+        },
+        {
+            "id": 44,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 45,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 46,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 47,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 48,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 49,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 50,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 51,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 52,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 53,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 54,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 5
+        },
+        {
+            "id": 55,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 56,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 57,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 58,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 59,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 60,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 61,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 62,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 63,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 64,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 6
+        },
+        {
+            "id": 65,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 66,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 67,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 68,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 69,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 70,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 71,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 72,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 73,
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 74,
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "level_id": 7
+        },
+        {
+            "id": 75,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 76,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 77,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 78,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 79,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 8
+        },
+        {
+            "id": 80,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 81,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 82,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 83,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 84,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 85,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 86,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 87,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 88,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 89,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 90,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 91,
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 92,
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "level_id": 9
+        },
+        {
+            "id": 93,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 94,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 95,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 96,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 97,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 98,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 99,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 100,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 101,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 102,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 103,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 104,
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "level_id": 10
+        },
+        {
+            "id": 105,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 106,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 107,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 108,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 109,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 110,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 111,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 112,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 113,
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "level_id": 11
+        },
+        {
+            "id": 114,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 115,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 116,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 117,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 12
+        },
+        {
+            "id": 118,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 119,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 120,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 121,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 122,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 123,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 124,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 125,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 126,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 127,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 128,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 13
+        },
+        {
+            "id": 129,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 130,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 131,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 132,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 133,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 134,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 135,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 136,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 137,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 138,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 139,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 14
+        },
+        {
+            "id": 140,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 141,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 142,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 143,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 144,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 145,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 146,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 147,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 15
+        },
+        {
+            "id": 148,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 149,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 150,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 151,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 152,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 153,
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "level_id": 16
+        },
+        {
+            "id": 154,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 155,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 156,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 157,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 158,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 159,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 160,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 161,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 162,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 163,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 164,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 165,
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 166,
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 167,
+            "course_code": "CSE10014",
+            "course_name": "Course 14 for Level 100",
+            "level_id": 17
+        },
+        {
+            "id": 168,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 169,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 170,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 171,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 172,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 173,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 174,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 175,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 176,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 177,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 178,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 179,
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 180,
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 181,
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "level_id": 18
+        },
+        {
+            "id": 182,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 183,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 184,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 185,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 186,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 187,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 188,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 19
+        },
+        {
+            "id": 189,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 190,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 191,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 192,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 193,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 194,
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "level_id": 20
+        },
+        {
+            "id": 195,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 196,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 197,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 198,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 199,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 200,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 201,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 202,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 203,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 204,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 205,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 206,
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 207,
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "level_id": 21
+        },
+        {
+            "id": 208,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 209,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 210,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 211,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 212,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 213,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 214,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 215,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 216,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 217,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 218,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 219,
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 220,
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 221,
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "level_id": 22
+        },
+        {
+            "id": 222,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 223,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 224,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 225,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 226,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 227,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 228,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 229,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 230,
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "level_id": 23
+        },
+        {
+            "id": 231,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 232,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 233,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 234,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 24
+        },
+        {
+            "id": 235,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 236,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 237,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 238,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 239,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 240,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 241,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 242,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 243,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 244,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 245,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 246,
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "level_id": 25
+        },
+        {
+            "id": 247,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 248,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 249,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 250,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 251,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 252,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 253,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 254,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 255,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 256,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 257,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 258,
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "level_id": 26
+        },
+        {
+            "id": 259,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 260,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 261,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 262,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 263,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 264,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 265,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 266,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 27
+        },
+        {
+            "id": 267,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 268,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 269,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 270,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 271,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 28
+        },
+        {
+            "id": 272,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 273,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 274,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 275,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 276,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 277,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 278,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 279,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 280,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 281,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 29
+        },
+        {
+            "id": 282,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 283,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 284,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 285,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 286,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 287,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 288,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 289,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 290,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 291,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 292,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 30
+        },
+        {
+            "id": 293,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 294,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 295,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 296,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 297,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 298,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 299,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 300,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 31
+        },
+        {
+            "id": 301,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 302,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 303,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 304,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 305,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 32
+        },
+        {
+            "id": 306,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 307,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 308,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 309,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 310,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 311,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 312,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 313,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 314,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 315,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 316,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 33
+        },
+        {
+            "id": 317,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 318,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 319,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 320,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 321,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 322,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 323,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 324,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 325,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 326,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 34
+        },
+        {
+            "id": 327,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 328,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 329,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 330,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 331,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 332,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 333,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 334,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 335,
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 336,
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "level_id": 35
+        },
+        {
+            "id": 337,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 338,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 339,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 340,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 341,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 342,
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "level_id": 36
+        },
+        {
+            "id": 343,
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 344,
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 345,
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 346,
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 347,
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 348,
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 349,
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 350,
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 351,
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 352,
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 353,
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 354,
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 355,
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 356,
+            "course_code": "CSE10014",
+            "course_name": "Course 14 for Level 100",
+            "level_id": 37
+        },
+        {
+            "id": 357,
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 358,
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 359,
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 360,
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 361,
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 362,
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 363,
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 364,
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 365,
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 366,
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 367,
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 368,
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 369,
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 370,
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "level_id": 38
+        },
+        {
+            "id": 371,
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 372,
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 373,
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 374,
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 375,
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 376,
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 377,
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 378,
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 379,
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 380,
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "level_id": 39
+        },
+        {
+            "id": 381,
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 382,
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 383,
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 384,
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "level_id": 40
+        },
+        {
+            "id": 385,
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "level_id": 40
+        }
+    ],
+    "combined_courses": [
+        {
+            "course_code": "Math101",
+            "course_name": "Basic Mathematics",
+            "level": 100,
+            "department_ids": [
+                1,
+                2,
+                3
+            ],
+            "students": 342
+        },
+        {
+            "course_code": "Math102",
+            "course_name": "Advanced Mathematics",
+            "level": 200,
+            "department_ids": [
+                4,
+                5,
+                6
+            ],
+            "students": 387
+        },
+        {
+            "course_code": "GSP101",
+            "course_name": "General Studies: Communication Skills",
+            "level": 100,
+            "department_ids": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "students": 588
+        }
+    ],
+    "timetable": [
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10014",
+            "course_name": "Course 14 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "11:00 AM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-02",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-04",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-05",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "11:00 AM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-09",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE40006",
+            "course_name": "Course 6 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-01",
+            "day": "Wednesday",
+            "time": "8:00 AM",
+            "course_code": "CSE10001",
+            "course_name": "Course 1 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE10002",
+            "course_name": "Course 2 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE10003",
+            "course_name": "Course 3 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10004",
+            "course_name": "Course 4 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE10005",
+            "course_name": "Course 5 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "2:00 PM",
+            "course_code": "CSE10006",
+            "course_name": "Course 6 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-29",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE10007",
+            "course_name": "Course 7 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE10008",
+            "course_name": "Course 8 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE10009",
+            "course_name": "Course 9 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE10010",
+            "course_name": "Course 10 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE10011",
+            "course_name": "Course 11 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10012",
+            "course_name": "Course 12 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE10013",
+            "course_name": "Course 13 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE10014",
+            "course_name": "Course 14 for Level 100",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE20001",
+            "course_name": "Course 1 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20002",
+            "course_name": "Course 2 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "8:00 AM",
+            "course_code": "CSE20003",
+            "course_name": "Course 3 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "2:00 PM",
+            "course_code": "CSE20004",
+            "course_name": "Course 4 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE20005",
+            "course_name": "Course 5 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-08",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20006",
+            "course_name": "Course 6 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE20007",
+            "course_name": "Course 7 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE20008",
+            "course_name": "Course 8 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE20009",
+            "course_name": "Course 9 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "11:00 AM",
+            "course_code": "CSE20010",
+            "course_name": "Course 10 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE20011",
+            "course_name": "Course 11 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20012",
+            "course_name": "Course 12 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-07",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE20013",
+            "course_name": "Course 13 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE20014",
+            "course_name": "Course 14 for Level 200",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-30",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "CSE30001",
+            "course_name": "Course 1 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-21",
+            "day": "Saturday",
+            "time": "11:00 AM",
+            "course_code": "CSE30002",
+            "course_name": "Course 2 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-26",
+            "day": "Thursday",
+            "time": "2:00 PM",
+            "course_code": "CSE30003",
+            "course_name": "Course 3 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-20",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE30004",
+            "course_name": "Course 4 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "8:00 AM",
+            "course_code": "CSE30005",
+            "course_name": "Course 5 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE30006",
+            "course_name": "Course 6 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "CSE30007",
+            "course_name": "Course 7 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-31",
+            "day": "Tuesday",
+            "time": "2:00 PM",
+            "course_code": "CSE30008",
+            "course_name": "Course 8 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-27",
+            "day": "Friday",
+            "time": "2:00 PM",
+            "course_code": "CSE30009",
+            "course_name": "Course 9 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "CSE30010",
+            "course_name": "Course 10 for Level 300",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-22",
+            "day": "Sunday",
+            "time": "8:00 AM",
+            "course_code": "CSE40001",
+            "course_name": "Course 1 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "2:00 PM",
+            "course_code": "CSE40002",
+            "course_name": "Course 2 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-28",
+            "day": "Saturday",
+            "time": "8:00 AM",
+            "course_code": "CSE40003",
+            "course_name": "Course 3 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-25",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "course_code": "CSE40004",
+            "course_name": "Course 4 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2024-12-24",
+            "day": "Tuesday",
+            "time": "11:00 AM",
+            "course_code": "CSE40005",
+            "course_name": "Course 5 for Level 400",
+            "programs": "Individual",
+            "departments": []
+        },
+        {
+            "date": "2025-01-06",
+            "day": "Monday",
+            "time": "11:00 AM",
+            "course_code": "Math101",
+            "course_name": "Basic Mathematics",
+            "programs": "Combined",
+            "departments": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "date": "2024-12-23",
+            "day": "Monday",
+            "time": "8:00 AM",
+            "course_code": "Math102",
+            "course_name": "Advanced Mathematics",
+            "programs": "Combined",
+            "departments": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "date": "2025-01-03",
+            "day": "Friday",
+            "time": "11:00 AM",
+            "course_code": "GSP101",
+            "course_name": "General Studies: Communication Skills",
+            "programs": "Combined",
+            "departments": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    ]
+}

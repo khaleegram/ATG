@@ -1,0 +1,1086 @@
+{
+    "venues": [
+        {
+            "name": "Venue 1",
+            "capacity": 50,
+            "block": "Block G"
+        },
+        {
+            "name": "Venue 2",
+            "capacity": 60,
+            "block": "Block C"
+        },
+        {
+            "name": "Venue 3",
+            "capacity": 70,
+            "block": "Block C"
+        },
+        {
+            "name": "Venue 4",
+            "capacity": 80,
+            "block": "Block B"
+        },
+        {
+            "name": "Venue 5",
+            "capacity": 90,
+            "block": "Block D"
+        },
+        {
+            "name": "Venue 6",
+            "capacity": 100,
+            "block": "Block A"
+        },
+        {
+            "name": "Venue 7",
+            "capacity": 110,
+            "block": "Block B"
+        },
+        {
+            "name": "Venue 8",
+            "capacity": 120,
+            "block": "Block H"
+        },
+        {
+            "name": "Venue 9",
+            "capacity": 130,
+            "block": "Block A"
+        },
+        {
+            "name": "Venue 10",
+            "capacity": 140,
+            "block": "Block H"
+        },
+        {
+            "name": "Venue 11",
+            "capacity": 150,
+            "block": "Block J"
+        },
+        {
+            "name": "Venue 12",
+            "capacity": 160,
+            "block": "Block B"
+        },
+        {
+            "name": "Venue 13",
+            "capacity": 170,
+            "block": "Block J"
+        },
+        {
+            "name": "Venue 14",
+            "capacity": 180,
+            "block": "Block A"
+        },
+        {
+            "name": "Venue 15",
+            "capacity": 190,
+            "block": "Block D"
+        },
+        {
+            "name": "Venue 16",
+            "capacity": 200,
+            "block": "Block B"
+        },
+        {
+            "name": "Venue 17",
+            "capacity": 210,
+            "block": "Block C"
+        },
+        {
+            "name": "Venue 18",
+            "capacity": 220,
+            "block": "Block C"
+        },
+        {
+            "name": "Venue 19",
+            "capacity": 230,
+            "block": "Block F"
+        },
+        {
+            "name": "Venue 20",
+            "capacity": 240,
+            "block": "Block I"
+        },
+        {
+            "name": "Venue 21",
+            "capacity": 250,
+            "block": "Block I"
+        },
+        {
+            "name": "Venue 22",
+            "capacity": 260,
+            "block": "Block J"
+        },
+        {
+            "name": "Venue 23",
+            "capacity": 270,
+            "block": "Block J"
+        },
+        {
+            "name": "Venue 24",
+            "capacity": 280,
+            "block": "Block E"
+        },
+        {
+            "name": "Venue 25",
+            "capacity": 290,
+            "block": "Block I"
+        },
+        {
+            "name": "Venue 26",
+            "capacity": 300,
+            "block": "Block I"
+        },
+        {
+            "name": "Venue 27",
+            "capacity": 310,
+            "block": "Block C"
+        },
+        {
+            "name": "Venue 28",
+            "capacity": 320,
+            "block": "Block I"
+        }
+    ],
+    "invigilators": [
+        {
+            "name": "Invigilator 1",
+            "department": "Department 6"
+        },
+        {
+            "name": "Invigilator 2",
+            "department": "Department 26"
+        },
+        {
+            "name": "Invigilator 3",
+            "department": "Department 21"
+        },
+        {
+            "name": "Invigilator 4",
+            "department": "Department 15"
+        },
+        {
+            "name": "Invigilator 5",
+            "department": "Department 11"
+        },
+        {
+            "name": "Invigilator 6",
+            "department": "Department 25"
+        },
+        {
+            "name": "Invigilator 7",
+            "department": "Department 5"
+        },
+        {
+            "name": "Invigilator 8",
+            "department": "Department 15"
+        },
+        {
+            "name": "Invigilator 9",
+            "department": "Department 15"
+        },
+        {
+            "name": "Invigilator 10",
+            "department": "Department 27"
+        },
+        {
+            "name": "Invigilator 11",
+            "department": "Department 6"
+        },
+        {
+            "name": "Invigilator 12",
+            "department": "Department 23"
+        },
+        {
+            "name": "Invigilator 13",
+            "department": "Department 19"
+        },
+        {
+            "name": "Invigilator 14",
+            "department": "Department 12"
+        },
+        {
+            "name": "Invigilator 15",
+            "department": "Department 9"
+        },
+        {
+            "name": "Invigilator 16",
+            "department": "Department 25"
+        },
+        {
+            "name": "Invigilator 17",
+            "department": "Department 2"
+        },
+        {
+            "name": "Invigilator 18",
+            "department": "Department 28"
+        },
+        {
+            "name": "Invigilator 19",
+            "department": "Department 19"
+        },
+        {
+            "name": "Invigilator 20",
+            "department": "Department 28"
+        },
+        {
+            "name": "Invigilator 21",
+            "department": "Department 5"
+        },
+        {
+            "name": "Invigilator 22",
+            "department": "Department 18"
+        },
+        {
+            "name": "Invigilator 23",
+            "department": "Department 20"
+        },
+        {
+            "name": "Invigilator 24",
+            "department": "Department 6"
+        },
+        {
+            "name": "Invigilator 25",
+            "department": "Department 1"
+        },
+        {
+            "name": "Invigilator 26",
+            "department": "Department 3"
+        },
+        {
+            "name": "Invigilator 27",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 28",
+            "department": "Department 4"
+        },
+        {
+            "name": "Invigilator 29",
+            "department": "Department 3"
+        },
+        {
+            "name": "Invigilator 30",
+            "department": "Department 14"
+        },
+        {
+            "name": "Invigilator 31",
+            "department": "Department 5"
+        },
+        {
+            "name": "Invigilator 32",
+            "department": "Department 7"
+        },
+        {
+            "name": "Invigilator 33",
+            "department": "Department 28"
+        },
+        {
+            "name": "Invigilator 34",
+            "department": "Department 13"
+        },
+        {
+            "name": "Invigilator 35",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 36",
+            "department": "Department 8"
+        },
+        {
+            "name": "Invigilator 37",
+            "department": "Department 28"
+        },
+        {
+            "name": "Invigilator 38",
+            "department": "Department 13"
+        },
+        {
+            "name": "Invigilator 39",
+            "department": "Department 19"
+        },
+        {
+            "name": "Invigilator 40",
+            "department": "Department 13"
+        },
+        {
+            "name": "Invigilator 41",
+            "department": "Department 27"
+        },
+        {
+            "name": "Invigilator 42",
+            "department": "Department 24"
+        },
+        {
+            "name": "Invigilator 43",
+            "department": "Department 19"
+        },
+        {
+            "name": "Invigilator 44",
+            "department": "Department 26"
+        },
+        {
+            "name": "Invigilator 45",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 46",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 47",
+            "department": "Department 18"
+        },
+        {
+            "name": "Invigilator 48",
+            "department": "Department 12"
+        },
+        {
+            "name": "Invigilator 49",
+            "department": "Department 4"
+        },
+        {
+            "name": "Invigilator 50",
+            "department": "Department 26"
+        },
+        {
+            "name": "Invigilator 51",
+            "department": "Department 15"
+        },
+        {
+            "name": "Invigilator 52",
+            "department": "Department 27"
+        },
+        {
+            "name": "Invigilator 53",
+            "department": "Department 16"
+        },
+        {
+            "name": "Invigilator 54",
+            "department": "Department 11"
+        },
+        {
+            "name": "Invigilator 55",
+            "department": "Department 6"
+        },
+        {
+            "name": "Invigilator 56",
+            "department": "Department 17"
+        },
+        {
+            "name": "Invigilator 57",
+            "department": "Department 18"
+        },
+        {
+            "name": "Invigilator 58",
+            "department": "Department 18"
+        },
+        {
+            "name": "Invigilator 59",
+            "department": "Department 11"
+        },
+        {
+            "name": "Invigilator 60",
+            "department": "Department 3"
+        },
+        {
+            "name": "Invigilator 61",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 62",
+            "department": "Department 26"
+        },
+        {
+            "name": "Invigilator 63",
+            "department": "Department 28"
+        },
+        {
+            "name": "Invigilator 64",
+            "department": "Department 21"
+        },
+        {
+            "name": "Invigilator 65",
+            "department": "Department 13"
+        },
+        {
+            "name": "Invigilator 66",
+            "department": "Department 16"
+        },
+        {
+            "name": "Invigilator 67",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 68",
+            "department": "Department 8"
+        },
+        {
+            "name": "Invigilator 69",
+            "department": "Department 5"
+        },
+        {
+            "name": "Invigilator 70",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 71",
+            "department": "Department 22"
+        },
+        {
+            "name": "Invigilator 72",
+            "department": "Department 19"
+        },
+        {
+            "name": "Invigilator 73",
+            "department": "Department 21"
+        },
+        {
+            "name": "Invigilator 74",
+            "department": "Department 21"
+        },
+        {
+            "name": "Invigilator 75",
+            "department": "Department 17"
+        },
+        {
+            "name": "Invigilator 76",
+            "department": "Department 15"
+        },
+        {
+            "name": "Invigilator 77",
+            "department": "Department 8"
+        },
+        {
+            "name": "Invigilator 78",
+            "department": "Department 23"
+        },
+        {
+            "name": "Invigilator 79",
+            "department": "Department 4"
+        },
+        {
+            "name": "Invigilator 80",
+            "department": "Department 9"
+        },
+        {
+            "name": "Invigilator 81",
+            "department": "Department 4"
+        },
+        {
+            "name": "Invigilator 82",
+            "department": "Department 7"
+        },
+        {
+            "name": "Invigilator 83",
+            "department": "Department 15"
+        },
+        {
+            "name": "Invigilator 84",
+            "department": "Department 20"
+        },
+        {
+            "name": "Invigilator 85",
+            "department": "Department 2"
+        },
+        {
+            "name": "Invigilator 86",
+            "department": "Department 16"
+        },
+        {
+            "name": "Invigilator 87",
+            "department": "Department 7"
+        },
+        {
+            "name": "Invigilator 88",
+            "department": "Department 25"
+        },
+        {
+            "name": "Invigilator 89",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 90",
+            "department": "Department 20"
+        },
+        {
+            "name": "Invigilator 91",
+            "department": "Department 16"
+        },
+        {
+            "name": "Invigilator 92",
+            "department": "Department 8"
+        },
+        {
+            "name": "Invigilator 93",
+            "department": "Department 10"
+        },
+        {
+            "name": "Invigilator 94",
+            "department": "Department 19"
+        },
+        {
+            "name": "Invigilator 95",
+            "department": "Department 11"
+        },
+        {
+            "name": "Invigilator 96",
+            "department": "Department 28"
+        },
+        {
+            "name": "Invigilator 97",
+            "department": "Department 27"
+        },
+        {
+            "name": "Invigilator 98",
+            "department": "Department 13"
+        },
+        {
+            "name": "Invigilator 99",
+            "department": "Department 25"
+        },
+        {
+            "name": "Invigilator 100",
+            "department": "Department 18"
+        }
+    ],
+    "courses": [
+        {
+            "course_name": "Course 1",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 2",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 3",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 4",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 5",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 6",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 7",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 8",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 9",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 10",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 11",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 12",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 13",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 14",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 15",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 16",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 17",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 18",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 19",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 20",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 21",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 22",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 23",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 24",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 25",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 26",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 27",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 28",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 29",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 30",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 31",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 32",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 33",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 34",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 35",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 36",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 37",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 38",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 39",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 40",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 41",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 42",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 43",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 44",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 45",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 46",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 47",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 48",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 49",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 50",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 51",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 52",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 53",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 54",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 55",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 56",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 57",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 58",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 59",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 60",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 61",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 62",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 63",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 64",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 65",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 66",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 67",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 68",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 69",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 70",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 71",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 72",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 73",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 74",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 75",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 76",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 77",
+            "program": "Programme 2",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 78",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 79",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 80",
+            "program": "Programme 5",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 81",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 82",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 83",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 84",
+            "program": "Programme 4",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 85",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 86",
+            "program": "Programme 1",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 87",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 88",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 89",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 90",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 91",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 92",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 93",
+            "program": "Programme 3",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 94",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 95",
+            "program": "Programme 5",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 96",
+            "program": "Programme 1",
+            "type": "Written"
+        },
+        {
+            "course_name": "Course 97",
+            "program": "Programme 2",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 98",
+            "program": "Programme 3",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 99",
+            "program": "Programme 4",
+            "type": "CBT"
+        },
+        {
+            "course_name": "Course 100",
+            "program": "Programme 5",
+            "type": "Written"
+        }
+    ],
+    "time_slots": {
+        "08:00": "08:00 AM - 10:30 AM",
+        "11:00": "11:00 AM - 01:00 PM",
+        "14:00": "02:00 PM - 04:00 PM"
+    },
+    "lunch_break": "13:00",
+    "dates": [
+        "2024-07-22",
+        "2024-07-23",
+        "2024-07-24",
+        "2024-07-25",
+        "2024-07-26",
+        "2024-07-27",
+        "2024-07-29",
+        "2024-07-30",
+        "2024-07-31",
+        "2024-08-01",
+        "2024-08-02",
+        "2024-08-03",
+        "2024-08-05",
+        "2024-08-06",
+        "2024-08-07",
+        "2024-08-08",
+        "2024-08-09",
+        "2024-08-10",
+        "2024-08-12",
+        "2024-08-13",
+        "2024-08-14",
+        "2024-08-15",
+        "2024-08-16",
+        "2024-08-17",
+        "2024-08-19",
+        "2024-08-20"
+    ],
+    "metadata": {
+        "version": "v1.0",
+        "generated_on": "2024-12-22 00:21:31"
+    }
+}
