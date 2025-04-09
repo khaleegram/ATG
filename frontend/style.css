@@ -1,0 +1,86 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #F9F9F9;
+    color: #333333;
+}
+
+header {
+    background-color: #2B6777;
+    padding: 1rem 2rem;
+    color: #FFFFFF;
+}
+
+header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+header .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+header .nav-links li {
+    display: inline;
+}
+
+header .nav-links a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+header .nav-links a:hover {
+    background-color: #F2A365;
+    color: #2B6777;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 3rem 2rem;
+    background-color: #C8D8E4;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    color: #2B6777;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
+
+.cta-button {
+    background-color: #F2A365;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #2B6777;
+    color: #FFFFFF;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #2B6777;
+    color: #FFFFFF;
+    font-size: 0.9rem;
+}
